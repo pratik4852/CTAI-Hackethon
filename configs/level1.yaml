@@ -1,0 +1,39 @@
+# Level 1 configuration reference.
+# These are the defaults the scripts use; override on the CLI as needed.
+
+dataset_root: "E:/CTA Dataset/CTD Dataset"
+
+render:
+  dpi: 150            # annotations are aligned to 150 DPI renders
+
+tiling:
+  tile_size: 1280     # must match training imgsz
+  overlap: 0.20       # fraction overlap between adjacent tiles
+  min_visibility: 0.3 # min fraction of a box inside a tile to keep it
+
+split:
+  val_frac: 0.20      # per-sheet hold-out for validation
+  empty_frac: 0.10    # fraction of background (no-object) tiles to keep
+
+model:
+  # "combined" = one model for all mechanical + electrical symbols.
+  # "mechanical" or "electrical" = discipline-specific model.
+  mode: combined
+  weights: yolov8s.pt
+  imgsz: 1280
+  epochs: 100
+  batch: 8
+
+inference:
+  conf: 0.25
+  nms_iou: 0.50
+
+# Test PDFs provided with the dataset (no ground truth — for submission):
+test_pdfs:
+  mechanical:
+    - "testing/mechanical/mechanical.pdf"
+    - "testing/mechanical/METRO_P1_MECH_BL5.1.pdf"
+  electrical:
+    - "testing/electrical/Sheets_selected_Electrical_2026-08-07_11-28-36am.pdf"
+  plumbing:   # Level 2 (pipes) — not part of Level 1 counting
+    - "testing/plumbing/plumbing.pdf"

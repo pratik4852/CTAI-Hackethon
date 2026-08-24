@@ -1,0 +1,23 @@
+class,discipline,instances
+Manual Fire Alarm,electrical,434
+Duplex Receptacle,electrical,395
+Fire Alarm,electrical,180
+Floor Box,electrical,126
+Double Duplex Receptacle,electrical,109
+Panel Board,electrical,61
+Motor Connection,electrical,43
+Fan Connection,electrical,17
+Auto Switch,electrical,7
+Junction Box,electrical,6
+Surface Mounted A,electrical,6
+Single Receptacle,electrical,2
+Electrical Wall Heater,electrical,2
+Disconnect Switch,electrical,2
+Fire Damper (FD),mechanical,842
+Linear Bar Grille / Linear Slot Diffuser,mechanical,347
+Square Return / Exhaust Register,mechanical,255
+Flexible Duct (Flex Duct),mechanical,165
+Square Supply Diffuser (4-Way),mechanical,64
+Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),mechanical,40
+Elevation Benchmark (Datum Target),mechanical,34
+Round Supply Diffuser,mechanical,9

@@ -1,0 +1,75 @@
+discipline,coco_file,file_name,width,height,num_objects,num_classes
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page1.png,5925,5100,24,4
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page5.png,5925,5100,10,3
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page6.png,5925,5100,1,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page8.png,5925,5100,4,2
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page9.png,5925,5100,5,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page21.png,5925,5100,5,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page22.png,5925,5100,1,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page24.png,5925,5100,5,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page25.png,5925,5100,5,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page30.png,5925,5100,1,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page31.png,5925,5100,1,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page32.png,5925,5100,2,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page33.png,5925,5100,12,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page34.png,5925,5100,2,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page35.png,5925,5100,2,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page36.png,5925,5100,2,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page37.png,5925,5100,2,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page38.png,5925,5100,5,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page41.png,5925,5100,6,1
+electrical,instances_all.json,701 Dexter - Electrical Drawings redacted_page54.png,5925,5100,24,4
+electrical,instances_all.json,electrical (2) redacted_page1.png,3600,3300,1,1
+electrical,instances_all.json,electrical (2) redacted_page6.png,3600,3300,6,1
+electrical,instances_all.json,electrical (2) redacted_page11.png,3600,3300,11,1
+electrical,instances_all.json,electrical (2) redacted_page12.png,3600,3300,6,1
+electrical,instances_all.json,electrical (2) redacted_page13.png,3600,3300,11,1
+electrical,instances_all.json,electrical (2) redacted_page14.png,3600,3300,3,1
+electrical,instances_all.json,electrical (2) redacted_page15.png,3600,3300,33,2
+electrical,instances_all.json,electrical (2) redacted_page16.png,3600,3300,25,3
+electrical,instances_all.json,electrical (2) redacted_page18.png,3600,3300,33,1
+electrical,instances_all.json,electrical (2) redacted_page19.png,3600,3300,39,1
+electrical,instances_all.json,electrical (2) redacted_page20.png,3600,3300,45,1
+electrical,instances_all.json,electrical (2) redacted_page21.png,3600,3300,41,1
+electrical,instances_all.json,electrical (2) redacted_page22.png,3600,3300,6,1
+electrical,instances_all.json,electrical (2) redacted_page23.png,3600,3300,8,1
+electrical,instances_all.json,electrical (2) redacted_page24.png,3600,3300,2,1
+electrical,instances_all.json,electrical (2) redacted_page25.png,3600,3300,78,5
+electrical,instances_all.json,electrical (2) redacted_page26.png,3600,3300,35,3
+electrical,instances_all.json,electrical (2) redacted_page27.png,3600,3300,218,5
+electrical,instances_all.json,electrical (2) redacted_page28.png,3600,3300,29,3
+electrical,instances_all.json,electrical (2) redacted_page29.png,3600,3300,207,5
+electrical,instances_all.json,electrical (2) redacted_page30.png,3600,3300,73,4
+electrical,instances_all.json,electrical (2) redacted_page31.png,3600,3300,71,3
+electrical,instances_all.json,electrical (2) redacted_page32.png,3600,3300,188,5
+electrical,instances_all.json,electrical (2) redacted_page33.png,3600,3300,95,4
+electrical,instances_all.json,electrical (2) redacted_page38.png,3600,3300,7,1
+mechanical,2) Architecture and Mechanical_IFC Set_Avexis_page_21.json,2) Architecture and Mechanical_IFC Set_Avexis_page_21.png,6300,4500,29,1
+mechanical,3) Architecture and Mechanical_IFC Set_Avexis_page_22.json,3) Architecture and Mechanical_IFC Set_Avexis_page_22.png,6300,4500,21,1
+mechanical,4) Architecture and Mechanical_IFC Set_Avexis_page_23.json,4) Architecture and Mechanical_IFC Set_Avexis_page_23.png,6300,4500,30,1
+mechanical,5) Architecture and Mechanical_IFC Set_Avexis_page_24.json,5) Architecture and Mechanical_IFC Set_Avexis_page_24.png,6300,4500,25,1
+mechanical,32) Phase 1 Combine Document_page_402.json,32) Phase 1 Combine Document_page_402.png,6300,4500,10,1
+mechanical,34) Phase 1 Combine Document_page_406.json,34) Phase 1 Combine Document_page_406.png,6300,4500,6,1
+mechanical,35) Phase 2 Combine Document_page_231.json,35) Phase 2 Combine Document_page_231.png,6300,4500,13,1
+mechanical,33) Phase 1 Combine Document_page_405.json,33) Phase 1 Combine Document_page_405.png,6300,4500,8,1
+mechanical,25) PfMCC_50__CD_-_Drawings_page_118.json,25) PfMCC_50__CD_-_Drawings_page_118.png,6300,4500,168,1
+mechanical,38) Phase 2 Combine Document_page_240.json,38) Phase 2 Combine Document_page_240.png,6300,4500,4,1
+mechanical,1) 3T MRI_Combined Set_page_30.json,1) 3T MRI_Combined Set_page_30.png,6300,4500,57,2
+mechanical,17) BSWH-THH TFO_page_8.json,17) BSWH-THH TFO_page_8.png,6300,4500,45,2
+mechanical,18) M-3.json,18) M-3.png,6300,4500,3,1
+mechanical,7) BSWH-THH TFO_page_11.json,7) BSWH-THH TFO_page_11.png,6300,4500,60,3
+mechanical,9) BSWH-THH TFO_page_13.json,9) BSWH-THH TFO_page_13.png,6300,4500,100,4
+mechanical,16) BSWH-THH TFO_page_7.json,16) BSWH-THH TFO_page_7.png,6300,4500,17,3
+mechanical,6) BSWH-THH TFO_page_10.json,6) BSWH-THH TFO_page_10.png,6300,4500,81,3
+mechanical,8) BSWH-THH TFO_page_12.json,8) BSWH-THH TFO_page_12.png,6300,4500,134,4
+mechanical,11) BSWH-THH TFO_page_3.json,11) BSWH-THH TFO_page_3.png,6300,4500,130,4
+mechanical,13) BSWH-THH TFO_page_4.json,13) BSWH-THH TFO_page_4.png,6300,4500,183,4
+mechanical,10) BSWH-THH TFO_page_2.json,10) BSWH-THH TFO_page_2.png,6300,4500,218,4
+mechanical,14) BSWH-THH TFO_page_5.json,14) BSWH-THH TFO_page_5.png,6300,4500,82,3
+mechanical,15) BSWH-THH TFO_page_6.json,15) BSWH-THH TFO_page_6.png,6300,4500,209,4
+mechanical,24) Moss Adams Spokane_Combined Set (1) (1)_page_50.json,24) Moss Adams Spokane_Combined Set (1) (1)_page_50.png,5400,3600,57,1
+mechanical,28) Phase 1 Combine Document_page_397.json,28) Phase 1 Combine Document_page_397.png,6300,4500,26,1
+mechanical,29) Phase 1 Combine Document_page_398.json,29) Phase 1 Combine Document_page_398.png,6300,4500,5,1
+mechanical,30) Phase 1 Combine Document_page_399.json,30) Phase 1 Combine Document_page_399.png,6300,4500,1,1
+mechanical,31) Phase 1 Combine Document_page_400.json,31) Phase 1 Combine Document_page_400.png,6300,4500,3,1
+mechanical,VUMC TVC 3 Urology Renovation - BIDDING SET (REV 1) CONSOLIDATED DRAWINGS_page_48.json,41) VUMC TVC 3 Urology Renovation - BIDDING SET (REV 1) CONSOLIDATED DRAWINGS_page_48.png,7200,5400,31,1

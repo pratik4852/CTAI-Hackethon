@@ -1,0 +1,91 @@
+{
+  "dataset_root": "E:\\CTA Dataset\\CTD Dataset",
+  "num_coco_files": 31,
+  "files_per_discipline": {
+    "electrical": 2,
+    "mechanical": 29
+  },
+  "num_sheets": 74,
+  "total_annotations": 3146,
+  "num_classes_combined": 22,
+  "num_classes_mechanical": 8,
+  "num_classes_electrical": 14,
+  "classes_mechanical": [
+    "Elevation Benchmark (Datum Target)",
+    "Fire Damper (FD)",
+    "Flexible Duct (Flex Duct)",
+    "Linear Bar Grille / Linear Slot Diffuser",
+    "Round Supply Diffuser",
+    "Square Return / Exhaust Register",
+    "Square Supply Diffuser (4-Way)",
+    "Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP)"
+  ],
+  "classes_electrical": [
+    "Auto Switch",
+    "Disconnect Switch",
+    "Double Duplex Receptacle",
+    "Duplex Receptacle",
+    "Electrical Wall Heater",
+    "Fan Connection",
+    "Fire Alarm",
+    "Floor Box",
+    "Junction Box",
+    "Manual Fire Alarm",
+    "Motor Connection",
+    "Panel Board",
+    "Single Receptacle",
+    "Surface Mounted A"
+  ],
+  "per_class_counts": {
+    "Fire Damper (FD)": 842,
+    "Manual Fire Alarm": 434,
+    "Duplex Receptacle": 395,
+    "Linear Bar Grille / Linear Slot Diffuser": 347,
+    "Square Return / Exhaust Register": 255,
+    "Fire Alarm": 180,
+    "Flexible Duct (Flex Duct)": 165,
+    "Floor Box": 126,
+    "Double Duplex Receptacle": 109,
+    "Square Supply Diffuser (4-Way)": 64,
+    "Panel Board": 61,
+    "Motor Connection": 43,
+    "Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP)": 40,
+    "Elevation Benchmark (Datum Target)": 34,
+    "Fan Connection": 17,
+    "Round Supply Diffuser": 9,
+    "Auto Switch": 7,
+    "Junction Box": 6,
+    "Surface Mounted A": 6,
+    "Single Receptacle": 2,
+    "Electrical Wall Heater": 2,
+    "Disconnect Switch": 2
+  },
+  "per_class_by_discipline": {
+    "electrical": {
+      "Manual Fire Alarm": 434,
+      "Duplex Receptacle": 395,
+      "Fire Alarm": 180,
+      "Floor Box": 126,
+      "Double Duplex Receptacle": 109,
+      "Panel Board": 61,
+      "Motor Connection": 43,
+      "Fan Connection": 17,
+      "Auto Switch": 7,
+      "Junction Box": 6,
+      "Surface Mounted A": 6,
+      "Single Receptacle": 2,
+      "Electrical Wall Heater": 2,
+      "Disconnect Switch": 2
+    },
+    "mechanical": {
+      "Fire Damper (FD)": 842,
+      "Linear Bar Grille / Linear Slot Diffuser": 347,
+      "Square Return / Exhaust Register": 255,
+      "Flexible Duct (Flex Duct)": 165,
+      "Square Supply Diffuser (4-Way)": 64,
+      "Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP)": 40,
+      "Elevation Benchmark (Datum Target)": 34,
+      "Round Supply Diffuser": 9
+    }
+  }
+}

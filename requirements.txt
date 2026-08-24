@@ -1,0 +1,13 @@
+# Level 1 — Detection & Counting
+# Install:  pip install -r requirements.txt
+# (Install a CUDA build of torch first if you have a GPU: https://pytorch.org)
+
+ultralytics>=8.2.0      # YOLOv8/v11 detection
+torch>=2.1.0            # pulled by ultralytics; install CUDA build for GPU
+pymupdf>=1.24.0         # PDF -> raster rendering (fitz)
+pillow>=10.0.0          # image IO + drawing
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0       # analysis plots
+pyyaml>=6.0
+tqdm>=4.66.0

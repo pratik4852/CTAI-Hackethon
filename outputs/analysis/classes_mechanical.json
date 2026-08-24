@@ -1,0 +1,23 @@
+{
+  "num_classes": 8,
+  "names": [
+    "Elevation Benchmark (Datum Target)",
+    "Fire Damper (FD)",
+    "Flexible Duct (Flex Duct)",
+    "Linear Bar Grille / Linear Slot Diffuser",
+    "Round Supply Diffuser",
+    "Square Return / Exhaust Register",
+    "Square Supply Diffuser (4-Way)",
+    "Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP)"
+  ],
+  "name_to_id": {
+    "Elevation Benchmark (Datum Target)": 0,
+    "Fire Damper (FD)": 1,
+    "Flexible Duct (Flex Duct)": 2,
+    "Linear Bar Grille / Linear Slot Diffuser": 3,
+    "Round Supply Diffuser": 4,
+    "Square Return / Exhaust Register": 5,
+    "Square Supply Diffuser (4-Way)": 6,
+    "Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP)": 7
+  }
+}

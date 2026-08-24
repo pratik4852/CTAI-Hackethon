@@ -1,0 +1,3147 @@
+discipline,class,w,h,area,img_w,img_h
+electrical,Single Receptacle,20.25,16.5,334.12,5925,5100
+electrical,Duplex Receptacle,24.14,18.78,453.35,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,18.78,24.14,453.35,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,15.14,19.47,294.78,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Double Duplex Receptacle,23.25,18.75,435.94,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,22.5,18.15,408.37,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,18.75,23.25,435.94,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,15.12,18.75,283.5,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Junction Box,17.19,17.19,295.5,5925,5100
+electrical,Junction Box,18.75,18.75,351.56,5925,5100
+electrical,Junction Box,20.31,20.31,412.5,5925,5100
+electrical,Electrical Wall Heater,37.0,42.0,1554.0,5925,5100
+electrical,Electrical Wall Heater,37.0,42.0,1554.0,5925,5100
+electrical,Disconnect Switch,25.0,18.0,450.0,5925,5100
+electrical,Disconnect Switch,25.0,18.0,450.0,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Motor Connection,27.2,27.1,737.12,5925,5100
+electrical,Motor Connection,27.2,27.1,737.12,5925,5100
+electrical,Motor Connection,27.2,27.1,737.12,5925,5100
+electrical,Auto Switch,21.49,4.98,107.02,5925,5100
+electrical,Auto Switch,21.49,4.98,107.02,5925,5100
+electrical,Auto Switch,21.49,4.98,107.02,5925,5100
+electrical,Auto Switch,21.07,4.88,102.82,5925,5100
+electrical,Auto Switch,21.08,4.89,103.08,5925,5100
+electrical,Auto Switch,4.98,21.49,107.02,5925,5100
+electrical,Auto Switch,18.42,18.74,345.19,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Motor Connection,27.1,27.2,737.12,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.07,18.13,327.61,5925,5100
+electrical,Motor Connection,18.07,18.13,327.61,5925,5100
+electrical,Motor Connection,18.07,18.13,327.61,5925,5100
+electrical,Motor Connection,18.07,18.13,327.61,5925,5100
+electrical,Motor Connection,18.07,18.13,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Motor Connection,18.13,18.07,327.61,5925,5100
+electrical,Fan Connection,21.07,26.8,564.68,5925,5100
+electrical,Fan Connection,21.07,26.8,564.68,5925,5100
+electrical,Fan Connection,21.07,26.8,564.68,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Fan Connection,19.0,24.5,465.5,5925,5100
+electrical,Single Receptacle,20.25,16.5,334.12,5925,5100
+electrical,Duplex Receptacle,24.14,18.78,453.35,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,18.78,24.14,453.35,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Duplex Receptacle,15.14,19.47,294.78,5925,5100
+electrical,Duplex Receptacle,20.25,15.75,318.94,5925,5100
+electrical,Double Duplex Receptacle,23.25,18.75,435.94,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,22.5,18.15,408.37,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,18.75,23.25,435.94,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Double Duplex Receptacle,15.12,18.75,283.5,5925,5100
+electrical,Double Duplex Receptacle,19.5,15.73,306.74,5925,5100
+electrical,Junction Box,17.19,17.19,295.5,5925,5100
+electrical,Junction Box,18.75,18.75,351.56,5925,5100
+electrical,Junction Box,20.31,20.31,412.5,5925,5100
+electrical,Fire Alarm,39.17,23.5,920.5,3600,3300
+electrical,Surface Mounted A,74.43,9.43,701.87,3600,3300
+electrical,Surface Mounted A,75.0,9.5,712.5,3600,3300
+electrical,Surface Mounted A,74.43,9.43,701.87,3600,3300
+electrical,Surface Mounted A,74.43,9.43,701.87,3600,3300
+electrical,Surface Mounted A,74.43,9.43,701.87,3600,3300
+electrical,Surface Mounted A,74.43,9.43,701.87,3600,3300
+electrical,Panel Board,13.89,32.76,455.04,3600,3300
+electrical,Panel Board,32.59,13.62,443.88,3600,3300
+electrical,Panel Board,32.59,13.62,443.88,3600,3300
+electrical,Panel Board,13.89,32.76,455.04,3600,3300
+electrical,Panel Board,13.89,32.76,455.04,3600,3300
+electrical,Panel Board,13.89,32.76,455.04,3600,3300
+electrical,Panel Board,32.59,13.62,443.88,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.59,13.63,444.2,3600,3300
+electrical,Panel Board,13.89,32.76,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,13.62,32.59,443.88,3600,3300
+electrical,Panel Board,13.62,32.59,443.88,3600,3300
+electrical,Panel Board,13.63,32.59,444.2,3600,3300
+electrical,Panel Board,13.63,32.59,444.2,3600,3300
+electrical,Panel Board,13.63,32.59,444.2,3600,3300
+electrical,Panel Board,32.59,13.63,444.2,3600,3300
+electrical,Panel Board,13.63,32.59,444.2,3600,3300
+electrical,Panel Board,13.63,32.59,444.2,3600,3300
+electrical,Panel Board,32.59,13.63,444.2,3600,3300
+electrical,Panel Board,13.63,32.59,444.2,3600,3300
+electrical,Panel Board,32.59,13.63,444.2,3600,3300
+electrical,Panel Board,13.62,32.59,443.88,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,13.89,32.76,455.04,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,31.28,31.5,985.32,3600,3300
+electrical,Duplex Receptacle,32.5,32.29,1049.42,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,32.54,32.75,1065.68,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.75,18.25,342.19,3600,3300
+electrical,Floor Box,22.07,21.66,478.04,3600,3300
+electrical,Floor Box,21.64,21.24,459.63,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,20.82,21.23,442.01,3600,3300
+electrical,Floor Box,21.24,21.64,459.63,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Panel Board,32.76,13.89,455.04,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,23.67,33.67,796.97,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,24.08,33.92,816.79,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,23.92,34.08,815.19,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,31.25,18.75,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Fire Alarm,18.75,31.25,585.94,3600,3300
+electrical,Panel Board,65.36,27.52,1798.71,3600,3300
+electrical,Panel Board,65.25,27.5,1794.38,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,28.0,45.62,1277.36,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,32.5,32.29,1049.42,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,32.75,32.54,1065.68,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,32.5,32.29,1049.42,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Floor Box,18.75,18.25,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Double Duplex Receptacle,28.0,45.62,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Panel Board,65.14,27.49,1790.7,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.32,17.84,326.83,3600,3300
+electrical,Floor Box,18.32,17.84,326.83,3600,3300
+electrical,Floor Box,18.75,18.25,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.75,26.0,435.5,3600,3300
+electrical,Manual Fire Alarm,16.75,26.0,435.5,3600,3300
+electrical,Manual Fire Alarm,16.75,26.0,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.25,16.27,410.82,3600,3300
+electrical,Manual Fire Alarm,25.25,16.27,410.82,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Manual Fire Alarm,25.5,16.43,418.96,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,28.0,45.62,1277.36,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Panel Board,27.49,65.14,1790.7,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,27.52,65.35,1798.43,3600,3300
+electrical,Panel Board,65.35,27.52,1798.43,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.01,28.75,834.04,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.01,28.75,834.04,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,29.0,29.26,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.0,29.26,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Manual Fire Alarm,22.75,14.66,333.51,3600,3300
+electrical,Manual Fire Alarm,22.75,14.66,333.51,3600,3300
+electrical,Manual Fire Alarm,22.75,14.66,333.51,3600,3300
+electrical,Manual Fire Alarm,22.75,14.66,333.51,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,46.84,28.75,1346.65,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,46.84,28.75,1346.65,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,29.0,47.25,1370.25,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,29.0,47.25,1370.25,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,1.76,29.0,51.04,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,35.08,35.24,1236.22,3600,3300
+electrical,Duplex Receptacle,32.04,32.25,1033.29,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,0.75,28.0,21.0,3600,3300
+electrical,Duplex Receptacle,32.5,32.29,1049.42,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,34.31,34.49,1183.35,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,0.75,28.0,21.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,32.5,32.29,1049.42,3600,3300
+electrical,Duplex Receptacle,32.54,32.75,1065.68,3600,3300
+electrical,Duplex Receptacle,32.54,32.75,1065.68,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,32.5,32.29,1049.42,3600,3300
+electrical,Duplex Receptacle,32.5,32.29,1049.42,3600,3300
+electrical,Duplex Receptacle,32.54,32.75,1065.68,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,36.6,36.73,1344.32,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.68,19.16,357.91,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,19.75,29.0,572.75,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Double Duplex Receptacle,27.75,45.21,1254.58,3600,3300
+electrical,Double Duplex Receptacle,45.62,28.0,1277.36,3600,3300
+electrical,Double Duplex Receptacle,35.24,49.56,1746.49,3600,3300
+electrical,Double Duplex Receptacle,35.24,49.56,1746.49,3600,3300
+electrical,Double Duplex Receptacle,35.24,49.56,1746.49,3600,3300
+electrical,Panel Board,27.25,65.18,1776.16,3600,3300
+electrical,Panel Board,65.45,27.42,1794.64,3600,3300
+electrical,Panel Board,27.25,65.18,1776.16,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,32.29,32.5,1049.42,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,34.57,34.74,1200.96,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,29.52,29.75,878.22,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.0,28.75,833.75,3600,3300
+electrical,Duplex Receptacle,27.75,27.5,763.12,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,35.08,35.24,1236.22,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,27.75,28.0,777.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,28.0,27.75,777.0,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.68,19.16,357.91,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,16.75,26.0,435.5,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,17.0,26.16,444.72,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,17.0,26.16,444.72,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,17.0,26.16,444.72,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,16.75,26.0,435.5,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,16.91,26.25,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Double Duplex Receptacle,45.46,28.16,1280.15,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,46.69,28.91,1349.81,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,45.87,28.41,1303.17,3600,3300
+electrical,Double Duplex Receptacle,45.87,28.41,1303.17,3600,3300
+electrical,Double Duplex Receptacle,28.41,45.87,1303.17,3600,3300
+electrical,Double Duplex Receptacle,45.21,27.75,1254.58,3600,3300
+electrical,Duplex Receptacle,29.01,28.75,834.04,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,29.0,29.26,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,29.51,29.25,863.17,3600,3300
+electrical,Duplex Receptacle,29.26,29.0,848.54,3600,3300
+electrical,Duplex Receptacle,28.25,28.5,805.12,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Duplex Receptacle,28.25,28.0,791.0,3600,3300
+electrical,Duplex Receptacle,28.5,28.25,805.12,3600,3300
+electrical,Duplex Receptacle,28.0,28.25,791.0,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,18.25,18.75,342.19,3600,3300
+electrical,Floor Box,17.84,18.32,326.83,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,17.16,26.41,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.0,16.75,435.5,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.25,16.91,443.89,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.41,17.16,453.2,3600,3300
+electrical,Manual Fire Alarm,26.16,17.0,444.72,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,29.0,47.25,1370.25,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,47.5,29.41,1396.97,3600,3300
+electrical,Double Duplex Receptacle,47.25,29.0,1370.25,3600,3300
+electrical,Fire Alarm,23.25,38.75,900.94,3600,3300
+electrical,Fire Alarm,23.5,39.17,920.5,3600,3300
+electrical,Fire Alarm,23.5,39.17,920.5,3600,3300
+electrical,Fire Alarm,23.5,39.17,920.5,3600,3300
+electrical,Fire Alarm,23.5,39.17,920.5,3600,3300
+electrical,Fire Alarm,23.5,39.17,920.5,3600,3300
+electrical,Fire Alarm,23.5,39.17,920.5,3600,3300
+mechanical,Flexible Duct (Flex Duct),64.13,18.75,1202.44,6300,4500
+mechanical,Flexible Duct (Flex Duct),64.13,18.75,1202.44,6300,4500
+mechanical,Flexible Duct (Flex Duct),64.13,18.75,1202.44,6300,4500
+mechanical,Flexible Duct (Flex Duct),64.13,18.75,1202.44,6300,4500
+mechanical,Flexible Duct (Flex Duct),64.13,18.75,1202.44,6300,4500
+mechanical,Flexible Duct (Flex Duct),27.14,78.78,2138.09,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.64,84.94,2177.86,6300,4500
+mechanical,Flexible Duct (Flex Duct),28.31,74.73,2115.61,6300,4500
+mechanical,Flexible Duct (Flex Duct),24.88,77.11,1918.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),22.39,97.01,2172.05,6300,4500
+mechanical,Flexible Duct (Flex Duct),23.63,93.91,2219.09,6300,4500
+mechanical,Flexible Duct (Flex Duct),27.17,98.51,2676.52,6300,4500
+mechanical,Flexible Duct (Flex Duct),26.04,100.77,2624.05,6300,4500
+mechanical,Flexible Duct (Flex Duct),112.09,27.17,3045.49,6300,4500
+mechanical,Flexible Duct (Flex Duct),114.36,22.64,2589.11,6300,4500
+mechanical,Flexible Duct (Flex Duct),52.33,65.42,3423.43,6300,4500
+mechanical,Flexible Duct (Flex Duct),96.06,49.77,4780.91,6300,4500
+mechanical,Flexible Duct (Flex Duct),96.06,30.09,2890.45,6300,4500
+mechanical,Flexible Duct (Flex Duct),74.07,55.56,4115.33,6300,4500
+mechanical,Flexible Duct (Flex Duct),81.02,45.14,3657.24,6300,4500
+mechanical,Flexible Duct (Flex Duct),79.86,28.94,2311.15,6300,4500
+mechanical,Flexible Duct (Flex Duct),91.44,67.13,6138.37,6300,4500
+mechanical,Flexible Duct (Flex Duct),81.02,46.3,3751.23,6300,4500
+mechanical,Flexible Duct (Flex Duct),30.93,48.22,1491.44,6300,4500
+mechanical,Flexible Duct (Flex Duct),30.93,50.04,1547.74,6300,4500
+mechanical,Flexible Duct (Flex Duct),67.34,71.55,4818.18,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.65,44.19,3254.59,6300,4500
+mechanical,Flexible Duct (Flex Duct),77.86,31.57,2458.04,6300,4500
+mechanical,Flexible Duct (Flex Duct),23.15,90.49,2094.84,6300,4500
+mechanical,Flexible Duct (Flex Duct),43.25,52.62,2275.82,6300,4500
+mechanical,Flexible Duct (Flex Duct),39.65,41.09,1629.22,6300,4500
+mechanical,Flexible Duct (Flex Duct),40.37,53.34,2153.34,6300,4500
+mechanical,Flexible Duct (Flex Duct),43.97,43.25,1901.7,6300,4500
+mechanical,Flexible Duct (Flex Duct),40.37,51.9,2095.2,6300,4500
+mechanical,Flexible Duct (Flex Duct),43.97,42.53,1870.04,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.95,57.67,1496.54,6300,4500
+mechanical,Flexible Duct (Flex Duct),49.86,29.38,1464.89,6300,4500
+mechanical,Flexible Duct (Flex Duct),97.04,28.04,2721.0,6300,4500
+mechanical,Flexible Duct (Flex Duct),94.37,28.49,2688.6,6300,4500
+mechanical,Flexible Duct (Flex Duct),94.82,29.83,2828.48,6300,4500
+mechanical,Flexible Duct (Flex Duct),96.6,30.27,2924.08,6300,4500
+mechanical,Flexible Duct (Flex Duct),97.04,29.38,2851.04,6300,4500
+mechanical,Flexible Duct (Flex Duct),95.71,32.94,3152.69,6300,4500
+mechanical,Flexible Duct (Flex Duct),72.56,28.49,2067.23,6300,4500
+mechanical,Flexible Duct (Flex Duct),78.79,28.04,2209.27,6300,4500
+mechanical,Flexible Duct (Flex Duct),161.15,32.5,5237.38,6300,4500
+mechanical,Flexible Duct (Flex Duct),57.73,20.4,1177.69,6300,4500
+mechanical,Flexible Duct (Flex Duct),44.27,23.44,1037.69,6300,4500
+mechanical,Flexible Duct (Flex Duct),29.83,58.2,1736.11,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.51,68.03,1735.45,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.0,73.5,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),29.08,47.31,1375.77,6300,4500
+mechanical,Flexible Duct (Flex Duct),41.67,35.59,1483.04,6300,4500
+mechanical,Flexible Duct (Flex Duct),29.95,57.73,1729.01,6300,4500
+mechanical,Flexible Duct (Flex Duct),29.95,49.05,1469.05,6300,4500
+mechanical,Flexible Duct (Flex Duct),27.78,62.93,1748.2,6300,4500
+mechanical,Flexible Duct (Flex Duct),30.38,58.16,1766.9,6300,4500
+mechanical,Flexible Duct (Flex Duct),29.08,67.71,1969.01,6300,4500
+mechanical,Flexible Duct (Flex Duct),30.82,62.07,1913.0,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.59,48.71,3584.57,6300,4500
+mechanical,Flexible Duct (Flex Duct),64.26,30.06,1931.66,6300,4500
+mechanical,Flexible Duct (Flex Duct),78.77,32.13,2530.88,6300,4500
+mechanical,Flexible Duct (Flex Duct),80.85,34.2,2765.07,6300,4500
+mechanical,Flexible Duct (Flex Duct),82.92,49.75,4125.27,6300,4500
+mechanical,Flexible Duct (Flex Duct),53.9,42.5,2290.75,6300,4500
+mechanical,Flexible Duct (Flex Duct),83.96,29.02,2436.52,6300,4500
+mechanical,Flexible Duct (Flex Duct),81.88,29.02,2376.16,6300,4500
+mechanical,Flexible Duct (Flex Duct),122.98,27.53,3385.64,6300,4500
+mechanical,Flexible Duct (Flex Duct),125.73,29.37,3692.69,6300,4500
+mechanical,Flexible Duct (Flex Duct),124.82,34.88,4353.72,6300,4500
+mechanical,Flexible Duct (Flex Duct),77.28,26.88,2077.29,6300,4500
+mechanical,Flexible Duct (Flex Duct),58.8,45.36,2667.17,6300,4500
+mechanical,Flexible Duct (Flex Duct),53.76,53.76,2890.14,6300,4500
+mechanical,Flexible Duct (Flex Duct),58.8,55.44,3259.87,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),18.75,55.12,1033.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),18.75,55.13,1033.69,6300,4500
+mechanical,Flexible Duct (Flex Duct),18.75,55.13,1033.69,6300,4500
+mechanical,Flexible Duct (Flex Duct),18.75,55.12,1033.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),18.75,55.12,1033.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),52.89,77.14,4079.93,6300,4500
+mechanical,Flexible Duct (Flex Duct),73.5,25.0,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.0,73.5,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.0,73.5,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.0,73.5,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.0,73.5,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),25.0,73.5,1837.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),18.75,55.12,1033.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),76.25,30.0,2287.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),29.52,97.11,2866.69,6300,4500
+mechanical,Flexible Duct (Flex Duct),74.17,30.42,2256.25,6300,4500
+mechanical,Flexible Duct (Flex Duct),71.25,29.79,2122.54,6300,4500
+mechanical,Flexible Duct (Flex Duct),125.83,19.58,2463.75,6300,4500
+mechanical,Flexible Duct (Flex Duct),21.84,50.4,1100.74,6300,4500
+mechanical,Flexible Duct (Flex Duct),115.93,57.12,6621.92,6300,4500
+mechanical,Square Supply Diffuser (4-Way),127.95,127.95,16371.2,6300,4500
+mechanical,Square Supply Diffuser (4-Way),127.95,127.95,16371.2,6300,4500
+mechanical,Square Supply Diffuser (4-Way),106.07,75.0,7955.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),106.07,75.0,7955.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,106.07,7955.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,106.07,7955.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),37.5,53.03,1988.62,6300,4500
+mechanical,Square Supply Diffuser (4-Way),83.79,86.05,7210.13,6300,4500
+mechanical,Square Supply Diffuser (4-Way),107.56,104.17,11204.53,6300,4500
+mechanical,Square Supply Diffuser (4-Way),86.05,81.52,7014.8,6300,4500
+mechanical,Flexible Duct (Flex Duct),71.28,39.7,2829.82,6300,4500
+mechanical,Flexible Duct (Flex Duct),67.16,134.61,9040.41,6300,4500
+mechanical,Flexible Duct (Flex Duct),66.73,49.37,3294.46,6300,4500
+mechanical,Flexible Duct (Flex Duct),47.39,75.04,3556.15,6300,4500
+mechanical,Flexible Duct (Flex Duct),31.6,42.46,1341.74,6300,4500
+mechanical,Flexible Duct (Flex Duct),9.87,46.41,458.07,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,167.71,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),167.71,75.0,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),167.71,75.0,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),167.71,75.0,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),167.71,75.0,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,167.71,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,167.71,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),167.71,75.0,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,167.71,12578.25,6300,4500
+mechanical,Square Supply Diffuser (4-Way),83.79,160.78,13471.76,6300,4500
+mechanical,Square Supply Diffuser (4-Way),79.26,161.91,12832.99,6300,4500
+mechanical,Square Supply Diffuser (4-Way),83.33,83.33,6943.89,6300,4500
+mechanical,Square Supply Diffuser (4-Way),158.05,84.77,13397.9,6300,4500
+mechanical,Flexible Duct (Flex Duct),30.86,68.25,2106.2,6300,4500
+mechanical,Flexible Duct (Flex Duct),47.39,23.25,1101.82,6300,4500
+mechanical,Flexible Duct (Flex Duct),48.28,19.67,949.67,6300,4500
+mechanical,Flexible Duct (Flex Duct),44.71,21.46,959.48,6300,4500
+mechanical,Flexible Duct (Flex Duct),46.49,21.46,997.68,6300,4500
+mechanical,Flexible Duct (Flex Duct),40.26,48.31,1944.96,6300,4500
+mechanical,Flexible Duct (Flex Duct),38.24,42.27,1616.4,6300,4500
+mechanical,Flexible Duct (Flex Duct),45.29,20.13,911.69,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),42.13,39.79,1676.35,6300,4500
+mechanical,Fire Damper (FD),40.96,43.31,1773.98,6300,4500
+mechanical,Fire Damper (FD),36.28,38.62,1401.13,6300,4500
+mechanical,Fire Damper (FD),38.62,38.62,1491.5,6300,4500
+mechanical,Fire Damper (FD),37.45,37.45,1402.5,6300,4500
+mechanical,Fire Damper (FD),38.62,37.45,1446.32,6300,4500
+mechanical,Fire Damper (FD),34.28,38.24,1310.87,6300,4500
+mechanical,Fire Damper (FD),34.28,35.6,1220.37,6300,4500
+mechanical,Fire Damper (FD),38.24,40.88,1563.25,6300,4500
+mechanical,Fire Damper (FD),38.24,40.88,1563.25,6300,4500
+mechanical,Fire Damper (FD),31.65,32.96,1043.18,6300,4500
+mechanical,Fire Damper (FD),40.88,38.24,1563.25,6300,4500
+mechanical,Fire Damper (FD),43.51,39.56,1721.26,6300,4500
+mechanical,Fire Damper (FD),39.56,42.19,1669.04,6300,4500
+mechanical,Fire Damper (FD),35.6,36.92,1314.35,6300,4500
+mechanical,Fire Damper (FD),42.19,38.24,1613.35,6300,4500
+mechanical,Fire Damper (FD),42.19,42.19,1780.0,6300,4500
+mechanical,Fire Damper (FD),35.6,35.6,1267.36,6300,4500
+mechanical,Fire Damper (FD),34.28,36.92,1265.62,6300,4500
+mechanical,Fire Damper (FD),38.24,30.33,1159.82,6300,4500
+mechanical,Fire Damper (FD),36.92,46.15,1703.86,6300,4500
+mechanical,Fire Damper (FD),40.88,38.24,1563.25,6300,4500
+mechanical,Fire Damper (FD),36.92,35.6,1314.35,6300,4500
+mechanical,Fire Damper (FD),34.28,38.24,1310.87,6300,4500
+mechanical,Fire Damper (FD),36.92,36.92,1363.09,6300,4500
+mechanical,Fire Damper (FD),32.96,38.24,1260.39,6300,4500
+mechanical,Fire Damper (FD),36.92,36.92,1363.09,6300,4500
+mechanical,Fire Damper (FD),35.6,36.92,1314.35,6300,4500
+mechanical,Fire Damper (FD),36.92,36.92,1363.09,6300,4500
+mechanical,Fire Damper (FD),42.19,43.51,1835.69,6300,4500
+mechanical,Fire Damper (FD),36.92,39.56,1460.56,6300,4500
+mechanical,Fire Damper (FD),36.92,36.92,1363.09,6300,4500
+mechanical,Fire Damper (FD),38.24,38.24,1462.3,6300,4500
+mechanical,Fire Damper (FD),40.88,43.51,1778.69,6300,4500
+mechanical,Fire Damper (FD),39.56,38.24,1512.77,6300,4500
+mechanical,Fire Damper (FD),43.51,39.56,1721.26,6300,4500
+mechanical,Fire Damper (FD),34.28,38.24,1310.87,6300,4500
+mechanical,Fire Damper (FD),35.6,39.56,1408.34,6300,4500
+mechanical,Fire Damper (FD),38.24,39.56,1512.77,6300,4500
+mechanical,Fire Damper (FD),43.51,38.24,1663.82,6300,4500
+mechanical,Fire Damper (FD),34.28,36.92,1265.62,6300,4500
+mechanical,Fire Damper (FD),36.92,46.15,1703.86,6300,4500
+mechanical,Fire Damper (FD),35.6,38.24,1361.34,6300,4500
+mechanical,Fire Damper (FD),39.56,36.92,1460.56,6300,4500
+mechanical,Fire Damper (FD),36.92,44.83,1655.12,6300,4500
+mechanical,Fire Damper (FD),42.19,42.19,1780.0,6300,4500
+mechanical,Fire Damper (FD),39.56,40.88,1617.21,6300,4500
+mechanical,Flexible Duct (Flex Duct),66.8,65.67,4386.76,6300,4500
+mechanical,Flexible Duct (Flex Duct),47.55,40.76,1938.14,6300,4500
+mechanical,Flexible Duct (Flex Duct),49.82,40.76,2030.66,6300,4500
+mechanical,Flexible Duct (Flex Duct),50.07,41.13,2059.38,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),74.99,74.99,5623.5,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),74.99,74.99,5623.5,6300,4500
+mechanical,Square Supply Diffuser (4-Way),74.99,74.99,5623.5,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Square Supply Diffuser (4-Way),75.0,75.0,5625.0,6300,4500
+mechanical,Flexible Duct (Flex Duct),40.71,54.03,2199.56,6300,4500
+mechanical,Flexible Duct (Flex Duct),45.22,56.78,2567.59,6300,4500
+mechanical,Flexible Duct (Flex Duct),45.22,56.78,2567.59,6300,4500
+mechanical,Flexible Duct (Flex Duct),43.96,94.17,4139.71,6300,4500
+mechanical,Flexible Duct (Flex Duct),45.34,118.26,5361.91,6300,4500
+mechanical,Flexible Duct (Flex Duct),41.67,49.4,2058.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),24.06,51.96,1250.16,6300,4500
+mechanical,Flexible Duct (Flex Duct),67.36,50.52,3403.03,6300,4500
+mechanical,Flexible Duct (Flex Duct),35.12,54.37,1909.47,6300,4500
+mechanical,Flexible Duct (Flex Duct),63.64,39.77,2530.96,6300,4500
+mechanical,Flexible Duct (Flex Duct),49.62,77.65,3852.99,6300,4500
+mechanical,Flexible Duct (Flex Duct),32.31,51.25,1655.89,6300,4500
+mechanical,Flexible Duct (Flex Duct),33.42,55.7,1861.49,6300,4500
+mechanical,Flexible Duct (Flex Duct),51.0,59.18,3018.18,6300,4500
+mechanical,Flexible Duct (Flex Duct),106.81,39.93,4264.92,6300,4500
+mechanical,Flexible Duct (Flex Duct),62.77,60.84,3818.93,6300,4500
+mechanical,Square Supply Diffuser (4-Way),79.21,82.38,6525.32,6300,4500
+mechanical,Square Supply Diffuser (4-Way),81.59,80.8,6592.47,6300,4500
+mechanical,Square Supply Diffuser (4-Way),77.27,76.78,5932.79,6300,4500
+mechanical,Square Supply Diffuser (4-Way),78.74,77.76,6122.82,6300,4500
+mechanical,Square Supply Diffuser (4-Way),78.98,78.98,6237.84,6300,4500
+mechanical,Square Supply Diffuser (4-Way),82.12,79.92,6563.03,6300,4500
+mechanical,Square Supply Diffuser (4-Way),80.47,79.37,6386.9,6300,4500
+mechanical,Square Supply Diffuser (4-Way),76.31,76.61,5846.11,6300,4500
+mechanical,Square Supply Diffuser (4-Way),78.26,76.61,5995.5,6300,4500
+mechanical,Square Supply Diffuser (4-Way),78.26,77.71,6081.58,6300,4500
+mechanical,Square Supply Diffuser (4-Way),77.76,77.76,6046.62,6300,4500
+mechanical,Square Supply Diffuser (4-Way),76.29,77.27,5894.93,6300,4500
+mechanical,Square Supply Diffuser (4-Way),78.68,76.9,6050.49,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,44.73,43.46,1943.97,6300,4500
+mechanical,Square Return / Exhaust Register,39.62,37.07,1468.71,6300,4500
+mechanical,Square Return / Exhaust Register,40.9,30.67,1254.4,6300,4500
+mechanical,Square Return / Exhaust Register,42.18,46.01,1940.7,6300,4500
+mechanical,Square Return / Exhaust Register,39.62,39.62,1569.74,6300,4500
+mechanical,Square Return / Exhaust Register,46.01,46.01,2116.92,6300,4500
+mechanical,Square Return / Exhaust Register,37.07,38.34,1421.26,6300,4500
+mechanical,Square Return / Exhaust Register,33.23,35.79,1189.3,6300,4500
+mechanical,Fire Damper (FD),33.23,40.9,1359.11,6300,4500
+mechanical,Fire Damper (FD),34.51,37.07,1279.29,6300,4500
+mechanical,Fire Damper (FD),38.34,34.51,1323.11,6300,4500
+mechanical,Fire Damper (FD),35.79,38.34,1372.19,6300,4500
+mechanical,Fire Damper (FD),44.73,42.18,1886.71,6300,4500
+mechanical,Fire Damper (FD),30.67,43.46,1332.92,6300,4500
+mechanical,Fire Damper (FD),43.46,39.62,1721.89,6300,4500
+mechanical,Fire Damper (FD),48.57,44.73,2172.54,6300,4500
+mechanical,Fire Damper (FD),47.29,49.85,2357.41,6300,4500
+mechanical,Fire Damper (FD),38.34,39.62,1519.03,6300,4500
+mechanical,Square Return / Exhaust Register,35.1,40.76,1430.68,6300,4500
+mechanical,Elevation Benchmark (Datum Target),37.5,37.5,1406.25,6300,4500
+mechanical,Elevation Benchmark (Datum Target),37.5,37.5,1406.25,6300,4500
+mechanical,Elevation Benchmark (Datum Target),37.5,37.5,1406.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),48.89,34.57,1690.13,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.55,31.25,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,17.64,79.37,1400.09,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.88,77.71,1156.32,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,15.84,76.05,1204.63,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.63,76.84,1277.85,6300,4500
+mechanical,Fire Damper (FD),40.4,40.4,1632.16,6300,4500
+mechanical,Fire Damper (FD),37.23,40.4,1504.09,6300,4500
+mechanical,Fire Damper (FD),40.4,41.19,1664.08,6300,4500
+mechanical,Fire Damper (FD),41.98,40.4,1695.99,6300,4500
+mechanical,Fire Damper (FD),46.74,41.19,1925.22,6300,4500
+mechanical,Fire Damper (FD),42.78,43.57,1863.92,6300,4500
+mechanical,Fire Damper (FD),41.98,44.36,1862.23,6300,4500
+mechanical,Fire Damper (FD),38.81,38.81,1506.22,6300,4500
+mechanical,Fire Damper (FD),79.21,40.4,3200.08,6300,4500
+mechanical,Fire Damper (FD),80.8,40.4,3264.32,6300,4500
+mechanical,Fire Damper (FD),41.98,79.21,3325.24,6300,4500
+mechanical,Fire Damper (FD),42.78,38.81,1660.29,6300,4500
+mechanical,Fire Damper (FD),41.98,37.23,1562.92,6300,4500
+mechanical,Fire Damper (FD),43.57,41.98,1829.07,6300,4500
+mechanical,Fire Damper (FD),43.57,40.4,1760.23,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),33.92,47.97,1627.14,6300,4500
+mechanical,Fire Damper (FD),33.92,47.97,1627.14,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.55,28.32,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,67.6,26.76,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.55,31.25,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),40.38,38.55,1556.65,6300,4500
+mechanical,Fire Damper (FD),41.3,37.63,1554.12,6300,4500
+mechanical,Fire Damper (FD),40.38,40.38,1630.54,6300,4500
+mechanical,Fire Damper (FD),24.78,23.86,591.25,6300,4500
+mechanical,Fire Damper (FD),40.38,40.38,1630.54,6300,4500
+mechanical,Fire Damper (FD),44.97,40.38,1815.89,6300,4500
+mechanical,Fire Damper (FD),39.46,39.46,1557.09,6300,4500
+mechanical,Fire Damper (FD),39.46,34.88,1376.36,6300,4500
+mechanical,Fire Damper (FD),41.3,37.63,1554.12,6300,4500
+mechanical,Fire Damper (FD),45.89,38.55,1769.06,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.33,14.7,1136.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,74.77,15.34,1146.97,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,79.24,15.34,1215.54,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,21.73,77.33,1680.38,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,74.98,29.68,2225.41,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,74.98,29.68,2225.41,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.55,31.25,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,42.18,43.46,1833.14,6300,4500
+mechanical,Square Return / Exhaust Register,34.51,37.07,1279.29,6300,4500
+mechanical,Square Return / Exhaust Register,26.84,38.34,1029.05,6300,4500
+mechanical,Square Return / Exhaust Register,29.4,35.79,1052.23,6300,4500
+mechanical,Square Return / Exhaust Register,37.07,40.9,1516.16,6300,4500
+mechanical,Square Return / Exhaust Register,39.62,47.29,1873.63,6300,4500
+mechanical,Square Return / Exhaust Register,43.46,46.01,1999.59,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),48.75,34.47,1680.41,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,26.76,67.6,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,26.76,67.6,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.55,31.25,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.56,78.31,1140.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,15.56,73.8,1148.33,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.69,73.9,1085.59,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.69,80.57,1183.57,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,27.48,76.05,2089.85,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,15.34,80.52,1235.18,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.7,81.8,1202.46,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,15.85,79.26,1256.27,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.72,78.12,1149.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,15.29,76.99,1177.18,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.72,78.69,1158.32,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.14,78.6,954.2,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,11.5,80.52,925.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,10.86,78.6,853.6,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.06,76.05,1069.26,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.57,78.82,1306.05,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.06,77.81,1249.63,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.05,28.12,1997.93,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.55,31.25,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.13,25.7,722.94,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),21.38,23.83,509.49,6300,4500
+mechanical,Fire Damper (FD),41.86,42.82,1792.45,6300,4500
+mechanical,Fire Damper (FD),36.76,43.77,1608.99,6300,4500
+mechanical,Fire Damper (FD),42.02,46.39,1949.31,6300,4500
+mechanical,Fire Damper (FD),45.52,43.77,1992.41,6300,4500
+mechanical,Fire Damper (FD),38.52,36.76,1416.0,6300,4500
+mechanical,Fire Damper (FD),40.27,39.39,1586.24,6300,4500
+mechanical,Fire Damper (FD),41.14,38.52,1584.71,6300,4500
+mechanical,Fire Damper (FD),43.77,42.02,1839.22,6300,4500
+mechanical,Fire Damper (FD),20.13,23.63,475.67,6300,4500
+mechanical,Fire Damper (FD),42.89,42.89,1839.55,6300,4500
+mechanical,Fire Damper (FD),41.14,43.77,1800.7,6300,4500
+mechanical,Fire Damper (FD),25.39,19.26,489.01,6300,4500
+mechanical,Fire Damper (FD),42.02,45.52,1912.75,6300,4500
+mechanical,Fire Damper (FD),41.14,43.77,1800.7,6300,4500
+mechanical,Fire Damper (FD),42.02,42.02,1765.68,6300,4500
+mechanical,Fire Damper (FD),39.39,42.02,1655.17,6300,4500
+mechanical,Fire Damper (FD),35.01,42.02,1471.12,6300,4500
+mechanical,Fire Damper (FD),35.89,45.52,1633.71,6300,4500
+mechanical,Fire Damper (FD),42.89,43.77,1877.3,6300,4500
+mechanical,Fire Damper (FD),46.39,42.02,1949.31,6300,4500
+mechanical,Fire Damper (FD),39.39,42.02,1655.17,6300,4500
+mechanical,Fire Damper (FD),46.39,36.76,1705.3,6300,4500
+mechanical,Fire Damper (FD),42.67,43.93,1874.49,6300,4500
+mechanical,Fire Damper (FD),43.93,45.18,1984.76,6300,4500
+mechanical,Square Return / Exhaust Register,42.67,40.16,1713.63,6300,4500
+mechanical,Fire Damper (FD),42.67,36.4,1553.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.76,75.4,2168.5,6300,4500
+mechanical,Square Return / Exhaust Register,46.3,43.28,2003.86,6300,4500
+mechanical,Fire Damper (FD),41.26,44.28,1826.99,6300,4500
+mechanical,Square Return / Exhaust Register,42.27,39.25,1659.1,6300,4500
+mechanical,Fire Damper (FD),40.26,43.28,1742.45,6300,4500
+mechanical,Fire Damper (FD),38.24,36.23,1385.44,6300,4500
+mechanical,Fire Damper (FD),40.26,37.24,1499.28,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,21.14,78.5,1659.49,6300,4500
+mechanical,Fire Damper (FD),42.27,42.27,1786.75,6300,4500
+mechanical,Fire Damper (FD),37.24,40.26,1499.28,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.0,22.84,571.0,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),22.84,25.0,571.0,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),41.98,42.75,1794.64,6300,4500
+mechanical,Fire Damper (FD),43.53,41.2,1793.44,6300,4500
+mechanical,Fire Damper (FD),41.2,40.42,1665.3,6300,4500
+mechanical,Fire Damper (FD),35.65,38.99,1389.99,6300,4500
+mechanical,Fire Damper (FD),38.99,42.34,1650.84,6300,4500
+mechanical,Fire Damper (FD),34.54,41.22,1423.74,6300,4500
+mechanical,Fire Damper (FD),42.34,42.34,1792.68,6300,4500
+mechanical,Fire Damper (FD),38.99,46.79,1824.34,6300,4500
+mechanical,Fire Damper (FD),42.34,42.34,1792.68,6300,4500
+mechanical,Fire Damper (FD),44.56,40.11,1787.3,6300,4500
+mechanical,Fire Damper (FD),34.54,33.42,1154.33,6300,4500
+mechanical,Fire Damper (FD),36.76,42.34,1556.42,6300,4500
+mechanical,Fire Damper (FD),34.54,43.45,1500.76,6300,4500
+mechanical,Fire Damper (FD),31.19,41.22,1285.65,6300,4500
+mechanical,Fire Damper (FD),42.34,41.22,1745.25,6300,4500
+mechanical,Fire Damper (FD),35.65,36.76,1310.49,6300,4500
+mechanical,Fire Damper (FD),38.99,36.76,1433.27,6300,4500
+mechanical,Fire Damper (FD),35.65,43.45,1548.99,6300,4500
+mechanical,Fire Damper (FD),42.34,38.99,1650.84,6300,4500
+mechanical,Fire Damper (FD),34.54,36.76,1269.69,6300,4500
+mechanical,Fire Damper (FD),36.76,35.65,1310.49,6300,4500
+mechanical,Fire Damper (FD),43.45,42.34,1839.67,6300,4500
+mechanical,Fire Damper (FD),42.34,41.22,1745.25,6300,4500
+mechanical,Fire Damper (FD),40.11,41.22,1653.33,6300,4500
+mechanical,Fire Damper (FD),45.68,50.13,2289.94,6300,4500
+mechanical,Fire Damper (FD),38.99,37.88,1476.94,6300,4500
+mechanical,Square Return / Exhaust Register,43.86,45.69,2003.96,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.45,82.24,1352.85,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,23.76,80.41,1910.54,6300,4500
+mechanical,Square Return / Exhaust Register,36.55,43.86,1603.08,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,53.55,80.63,4317.74,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,53.55,80.63,4317.74,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,53.55,80.63,4317.74,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.53,58.48,4709.39,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.63,53.55,4317.74,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,79.95,46.89,3748.86,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,26.76,67.6,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,26.76,67.6,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.4,39.84,3123.46,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,79.12,42.72,3380.01,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.21,35.83,2766.43,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.9,47.75,3719.73,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.63,53.55,4317.74,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.66,54.54,4399.2,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),40.76,38.5,1569.26,6300,4500
+mechanical,Fire Damper (FD),40.76,43.03,1753.9,6300,4500
+mechanical,Fire Damper (FD),43.03,43.03,1851.58,6300,4500
+mechanical,Fire Damper (FD),40.76,41.89,1707.44,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,81.52,20.38,1661.38,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.12,20.38,1592.09,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,90.58,11.32,1025.37,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.39,14.72,1183.34,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,79.26,16.98,1345.83,6300,4500
+mechanical,Square Return / Exhaust Register,39.63,38.5,1525.76,6300,4500
+mechanical,Square Return / Exhaust Register,39.63,40.76,1615.32,6300,4500
+mechanical,Square Return / Exhaust Register,38.5,36.23,1394.85,6300,4500
+mechanical,Square Return / Exhaust Register,43.03,35.1,1510.35,6300,4500
+mechanical,Square Return / Exhaust Register,38.5,31.7,1220.45,6300,4500
+mechanical,Square Return / Exhaust Register,33.97,38.5,1307.85,6300,4500
+mechanical,Square Return / Exhaust Register,41.89,37.36,1565.01,6300,4500
+mechanical,Fire Damper (FD),40.76,40.76,1661.38,6300,4500
+mechanical,Fire Damper (FD),43.03,43.03,1851.58,6300,4500
+mechanical,Square Return / Exhaust Register,41.89,40.76,1707.44,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,15.85,74.73,1184.47,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.98,74.73,1268.92,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.98,76.99,1307.29,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,13.59,74.73,1015.58,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,15.85,81.52,1292.09,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.6,29.44,2166.78,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.99,24.91,1917.82,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.33,26.04,1857.43,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,13.59,79.26,1077.14,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,18.12,74.73,1354.11,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.33,16.98,1211.18,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,61.14,20.38,1246.03,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,68.92,35.65,2457.0,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,63.37,36.44,2309.2,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,58.62,38.81,2275.04,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,68.92,33.27,2292.97,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,72.08,27.72,1998.06,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,62.58,25.35,1586.4,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.67,27.72,2042.13,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,52.28,20.6,1076.97,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,74.46,41.19,3067.01,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,64.16,39.61,2541.38,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,72.88,37.23,2713.32,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,72.88,30.1,2193.69,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.25,30.89,2324.47,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.25,28.52,2146.13,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.84,28.52,2191.48,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,56.24,22.97,1291.83,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,24.15,54.35,1312.55,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,33.21,65.42,2172.6,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,34.22,61.39,2100.77,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,36.23,71.46,2589.0,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,38.24,57.37,2193.83,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,37.24,69.44,2585.95,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,43.28,65.42,2831.38,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,34.22,62.4,2135.33,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,56.36,40.26,2269.05,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,66.43,33.21,2206.14,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,58.37,35.23,2056.38,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,70.45,25.16,1772.52,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,62.4,29.19,1821.46,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.92,83.98,1085.02,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.15,82.36,1330.11,6300,4500
+mechanical,Fire Damper (FD),45.22,41.99,1898.79,6300,4500
+mechanical,Fire Damper (FD),43.6,46.83,2041.79,6300,4500
+mechanical,Fire Damper (FD),50.06,38.76,1940.33,6300,4500
+mechanical,Fire Damper (FD),37.14,35.53,1319.58,6300,4500
+mechanical,Fire Damper (FD),41.99,38.76,1627.53,6300,4500
+mechanical,Fire Damper (FD),40.37,41.99,1695.14,6300,4500
+mechanical,Fire Damper (FD),38.76,40.37,1564.74,6300,4500
+mechanical,Fire Damper (FD),35.53,40.37,1434.35,6300,4500
+mechanical,Fire Damper (FD),37.14,35.53,1319.58,6300,4500
+mechanical,Fire Damper (FD),35.53,38.76,1377.14,6300,4500
+mechanical,Fire Damper (FD),35.53,38.76,1377.14,6300,4500
+mechanical,Fire Damper (FD),35.53,45.22,1606.67,6300,4500
+mechanical,Square Return / Exhaust Register,37.14,40.37,1499.34,6300,4500
+mechanical,Square Return / Exhaust Register,43.6,38.76,1689.94,6300,4500
+mechanical,Square Return / Exhaust Register,35.53,45.22,1606.67,6300,4500
+mechanical,Square Return / Exhaust Register,37.14,33.91,1259.42,6300,4500
+mechanical,Square Return / Exhaust Register,29.07,33.91,985.76,6300,4500
+mechanical,Square Return / Exhaust Register,32.3,48.45,1564.93,6300,4500
+mechanical,Fire Damper (FD),40.37,45.22,1825.53,6300,4500
+mechanical,Fire Damper (FD),30.68,33.91,1040.36,6300,4500
+mechanical,Fire Damper (FD),37.14,35.53,1319.58,6300,4500
+mechanical,Fire Damper (FD),38.76,37.14,1439.55,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,17.76,77.52,1376.76,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,17.76,71.06,1262.03,6300,4500
+mechanical,Square Return / Exhaust Register,30.68,38.76,1189.16,6300,4500
+mechanical,Square Return / Exhaust Register,35.53,38.76,1377.14,6300,4500
+mechanical,Square Return / Exhaust Register,41.99,32.3,1356.28,6300,4500
+mechanical,Square Return / Exhaust Register,29.07,30.68,891.87,6300,4500
+mechanical,Square Return / Exhaust Register,41.99,43.6,1830.76,6300,4500
+mechanical,Square Return / Exhaust Register,33.91,38.76,1314.35,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,17.76,77.52,1376.76,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.92,80.75,1043.29,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),46.66,33.0,1539.78,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,28.32,71.55,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.55,28.32,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.55,28.32,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.55,28.32,2026.3,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,78.95,31.25,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,31.25,78.95,2467.19,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,67.6,26.76,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,67.6,26.76,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,67.6,26.76,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,67.6,26.76,1808.98,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.5,53.03,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,9.78,79.42,776.73,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.65,13.44,1083.94,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.98,14.05,1081.57,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.98,9.16,705.14,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,74.54,15.27,1138.23,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,9.78,74.54,729.0,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,11.0,76.37,840.07,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,11.0,73.31,806.41,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.83,83.7,1073.87,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,10.39,70.87,736.34,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,11.61,72.7,844.05,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,10.39,69.65,723.66,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,9.16,70.87,649.17,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,9.78,64.15,627.39,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.83,72.7,932.74,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.05,75.15,1055.86,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.83,72.09,924.91,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.22,80.65,985.54,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.83,75.76,972.0,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,13.44,77.59,1042.81,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,11.61,76.98,893.74,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,9.16,78.2,716.31,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,9.16,70.87,649.17,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.22,76.37,933.24,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.83,74.54,956.35,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,9.16,70.26,643.58,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.22,76.37,933.24,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,18.63,73.12,1362.23,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,17.25,85.54,1475.57,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,11.73,80.02,938.63,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,13.11,74.5,976.69,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,81.4,11.73,954.82,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.71,15.18,1225.18,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.88,14.49,1099.5,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,70.36,11.73,825.32,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.81,9.66,713.0,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.81,10.35,763.93,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.02,12.42,993.85,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.02,15.87,1269.92,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.02,15.18,1214.7,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,80.02,17.25,1380.35,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,82.09,10.35,849.63,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,86.92,13.11,1139.52,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.27,9.39,725.57,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.56,9.39,709.51,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.0,8.97,654.81,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.43,10.25,752.66,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.99,8.54,648.95,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.43,11.1,815.07,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.7,8.97,696.97,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.43,10.25,752.66,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.42,9.39,717.58,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,72.15,10.25,739.54,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.56,12.81,967.92,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,73.43,10.67,783.5,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.42,10.25,783.31,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.72,8.97,643.33,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.56,9.39,709.51,6300,4500
+mechanical,Square Return / Exhaust Register,41.22,37.88,1561.41,6300,4500
+mechanical,Square Return / Exhaust Register,37.88,35.65,1350.42,6300,4500
+mechanical,Square Return / Exhaust Register,38.99,40.11,1563.89,6300,4500
+mechanical,Square Return / Exhaust Register,41.22,40.11,1653.33,6300,4500
+mechanical,Square Return / Exhaust Register,40.85,36.76,1501.65,6300,4500
+mechanical,Square Return / Exhaust Register,46.98,46.98,2207.12,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),44.93,46.98,2110.81,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),40.85,34.72,1418.31,6300,4500
+mechanical,Fire Damper (FD),42.55,36.68,1560.73,6300,4500
+mechanical,Fire Damper (FD),36.68,39.61,1452.89,6300,4500
+mechanical,Fire Damper (FD),44.01,46.95,2066.27,6300,4500
+mechanical,Fire Damper (FD),41.08,33.74,1386.04,6300,4500
+mechanical,Fire Damper (FD),41.08,41.08,1687.57,6300,4500
+mechanical,Fire Damper (FD),38.15,42.55,1623.28,6300,4500
+mechanical,Fire Damper (FD),45.48,44.01,2001.57,6300,4500
+mechanical,Fire Damper (FD),48.42,41.08,1989.09,6300,4500
+mechanical,Fire Damper (FD),41.08,45.48,1868.32,6300,4500
+mechanical,Fire Damper (FD),42.55,41.08,1747.95,6300,4500
+mechanical,Fire Damper (FD),42.55,46.95,1997.72,6300,4500
+mechanical,Fire Damper (FD),41.08,46.95,1928.71,6300,4500
+mechanical,Fire Damper (FD),42.55,42.55,1810.5,6300,4500
+mechanical,Fire Damper (FD),42.55,41.08,1747.95,6300,4500
+mechanical,Fire Damper (FD),38.15,41.08,1567.2,6300,4500
+mechanical,Fire Damper (FD),45.48,38.15,1735.06,6300,4500
+mechanical,Fire Damper (FD),46.95,48.42,2273.32,6300,4500
+mechanical,Fire Damper (FD),46.95,44.01,2066.27,6300,4500
+mechanical,Fire Damper (FD),45.48,44.01,2001.57,6300,4500
+mechanical,Fire Damper (FD),32.28,42.55,1373.51,6300,4500
+mechanical,Fire Damper (FD),48.42,41.08,1989.09,6300,4500
+mechanical,Fire Damper (FD),36.68,44.01,1614.29,6300,4500
+mechanical,Fire Damper (FD),51.35,42.55,2184.94,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.56,83.7,1218.67,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,16.38,76.42,1251.76,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),25.7,28.12,722.68,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),47.69,43.93,2095.02,6300,4500
+mechanical,Fire Damper (FD),42.67,43.93,1874.49,6300,4500
+mechanical,Fire Damper (FD),46.44,42.67,1981.59,6300,4500
+mechanical,Fire Damper (FD),36.4,33.89,1233.6,6300,4500
+mechanical,Fire Damper (FD),40.16,41.42,1663.43,6300,4500
+mechanical,Fire Damper (FD),43.93,41.42,1819.58,6300,4500
+mechanical,Fire Damper (FD),40.16,43.93,1764.23,6300,4500
+mechanical,Fire Damper (FD),36.4,36.4,1324.96,6300,4500
+mechanical,Fire Damper (FD),51.46,45.18,2324.96,6300,4500
+mechanical,Fire Damper (FD),42.67,38.91,1660.29,6300,4500
+mechanical,Fire Damper (FD),42.67,35.14,1499.42,6300,4500
+mechanical,Fire Damper (FD),33.89,45.18,1531.15,6300,4500
+mechanical,Fire Damper (FD),33.89,37.65,1275.96,6300,4500
+mechanical,Fire Damper (FD),32.63,33.89,1105.83,6300,4500
+mechanical,Fire Damper (FD),33.89,36.4,1233.6,6300,4500
+mechanical,Fire Damper (FD),32.63,41.42,1351.53,6300,4500
+mechanical,Fire Damper (FD),28.87,38.91,1123.33,6300,4500
+mechanical,Fire Damper (FD),38.91,37.65,1464.96,6300,4500
+mechanical,Fire Damper (FD),33.89,32.63,1105.83,6300,4500
+mechanical,Fire Damper (FD),37.65,46.44,1748.47,6300,4500
+mechanical,Fire Damper (FD),41.42,41.42,1715.62,6300,4500
+mechanical,Fire Damper (FD),33.89,42.67,1446.09,6300,4500
+mechanical,Fire Damper (FD),46.44,42.67,1981.59,6300,4500
+mechanical,Fire Damper (FD),41.42,47.69,1975.32,6300,4500
+mechanical,Fire Damper (FD),36.4,38.91,1416.32,6300,4500
+mechanical,Fire Damper (FD),33.89,43.93,1488.79,6300,4500
+mechanical,Fire Damper (FD),32.63,42.67,1392.32,6300,4500
+mechanical,Fire Damper (FD),37.65,42.67,1606.53,6300,4500
+mechanical,Fire Damper (FD),28.87,41.42,1195.8,6300,4500
+mechanical,Fire Damper (FD),31.38,33.89,1063.47,6300,4500
+mechanical,Fire Damper (FD),40.16,42.67,1713.63,6300,4500
+mechanical,Fire Damper (FD),32.63,41.42,1351.53,6300,4500
+mechanical,Fire Damper (FD),33.89,35.14,1190.89,6300,4500
+mechanical,Square Return / Exhaust Register,35.14,42.67,1499.42,6300,4500
+mechanical,Square Return / Exhaust Register,31.38,35.14,1102.69,6300,4500
+mechanical,Square Return / Exhaust Register,38.91,42.67,1660.29,6300,4500
+mechanical,Square Return / Exhaust Register,30.12,42.67,1285.22,6300,4500
+mechanical,Square Return / Exhaust Register,35.14,42.67,1499.42,6300,4500
+mechanical,Square Return / Exhaust Register,33.89,35.14,1190.89,6300,4500
+mechanical,Square Return / Exhaust Register,41.42,38.91,1611.65,6300,4500
+mechanical,Square Return / Exhaust Register,33.89,42.67,1446.09,6300,4500
+mechanical,Square Return / Exhaust Register,43.93,38.91,1709.32,6300,4500
+mechanical,Square Return / Exhaust Register,42.67,37.65,1606.53,6300,4500
+mechanical,Square Return / Exhaust Register,26.36,40.16,1058.62,6300,4500
+mechanical,Square Return / Exhaust Register,37.65,40.16,1512.02,6300,4500
+mechanical,Square Return / Exhaust Register,32.63,36.4,1187.73,6300,4500
+mechanical,Square Return / Exhaust Register,38.91,35.14,1367.3,6300,4500
+mechanical,Square Return / Exhaust Register,35.14,42.67,1499.42,6300,4500
+mechanical,Square Return / Exhaust Register,41.42,42.67,1767.39,6300,4500
+mechanical,Square Return / Exhaust Register,30.12,38.91,1171.97,6300,4500
+mechanical,Square Return / Exhaust Register,36.4,41.42,1507.69,6300,4500
+mechanical,Square Return / Exhaust Register,36.4,40.16,1461.82,6300,4500
+mechanical,Fire Damper (FD),32.63,37.65,1228.52,6300,4500
+mechanical,Fire Damper (FD),31.38,80.32,2520.44,6300,4500
+mechanical,Fire Damper (FD),32.63,74.05,2416.25,6300,4500
+mechanical,Fire Damper (FD),32.63,74.05,2416.25,6300,4500
+mechanical,Fire Damper (FD),31.38,72.79,2284.15,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.61,44.54,1407.91,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),26.52,18.75,497.25,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),18.75,26.52,497.25,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.68,55.76,4331.44,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.75,53.31,4091.54,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.75,51.49,3951.86,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.69,50.73,3941.21,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,77.54,48.82,3785.5,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.32,46.24,3529.04,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.15,40.66,3096.26,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.62,38.53,2913.64,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,36.32,2724.0,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,29.69,75.0,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.87,55.18,4241.69,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,75.0,29.69,2226.75,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),31.25,28.55,892.19,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP),28.12,25.7,722.68,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,18.75,26.52,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,53.03,37.5,1988.62,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Square Return / Exhaust Register,26.52,18.75,497.25,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,23.01,85.63,1970.35,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,23.01,80.52,1852.77,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,19.17,76.69,1470.15,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,14.06,80.52,1132.11,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.78,77.97,996.46,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,90.75,20.45,1855.84,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,60.07,23.01,1382.21,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.69,24.28,1862.03,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,71.57,26.84,1920.94,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,67.74,20.45,1385.28,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.69,20.45,1568.31,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,86.91,19.17,1666.06,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,79.24,19.17,1519.03,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,69.02,16.62,1147.11,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,67.74,20.45,1385.28,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,61.35,39.62,2430.69,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,76.69,44.73,3430.34,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,12.78,70.3,898.43,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,42.18,69.02,2911.26,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,40.9,75.41,3084.27,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,38.34,69.02,2646.23,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,43.46,70.3,3055.24,6300,4500
+mechanical,Linear Bar Grille / Linear Slot Diffuser,43.46,71.57,3110.43,6300,4500
+mechanical,Fire Damper (FD),38.5,36.23,1394.85,6300,4500
+mechanical,Fire Damper (FD),43.03,41.89,1802.53,6300,4500
+mechanical,Fire Damper (FD),50.95,43.03,2192.38,6300,4500
+mechanical,Fire Damper (FD),39.63,40.76,1615.32,6300,4500
+mechanical,Fire Damper (FD),39.62,40.9,1620.46,6300,4500
+mechanical,Fire Damper (FD),47.29,34.51,1631.98,6300,4500
+mechanical,Fire Damper (FD),39.62,42.18,1671.17,6300,4500
+mechanical,Fire Damper (FD),39.62,40.9,1620.46,6300,4500
+mechanical,Fire Damper (FD),40.9,35.79,1463.81,6300,4500
+mechanical,Fire Damper (FD),42.18,54.96,2318.21,6300,4500
+mechanical,Fire Damper (FD),40.9,53.68,2195.51,6300,4500
+mechanical,Fire Damper (FD),39.62,40.9,1620.46,6300,4500
+mechanical,Fire Damper (FD),37.07,35.79,1326.74,6300,4500
+mechanical,Fire Damper (FD),35.79,44.73,1600.89,6300,4500
+mechanical,Fire Damper (FD),34.51,40.9,1411.46,6300,4500
+mechanical,Fire Damper (FD),35.79,40.9,1463.81,6300,4500
+mechanical,Fire Damper (FD),38.34,44.73,1714.95,6300,4500
+mechanical,Fire Damper (FD),42.18,40.9,1725.16,6300,4500
+mechanical,Fire Damper (FD),37.07,39.62,1468.71,6300,4500
+mechanical,Fire Damper (FD),34.51,34.51,1190.94,6300,4500
+mechanical,Fire Damper (FD),39.62,39.62,1569.74,6300,4500
+mechanical,Fire Damper (FD),33.23,43.46,1444.18,6300,4500
+mechanical,Fire Damper (FD),29.4,34.51,1014.59,6300,4500
+mechanical,Fire Damper (FD),46.01,85.63,3939.84,6300,4500
+mechanical,Fire Damper (FD),37.07,43.46,1611.06,6300,4500
+mechanical,Fire Damper (FD),30.67,37.07,1136.94,6300,4500
+mechanical,Fire Damper (FD),31.95,38.34,1224.96,6300,4500
+mechanical,Fire Damper (FD),30.67,33.23,1019.16,6300,4500
+mechanical,Fire Damper (FD),34.51,38.34,1323.11,6300,4500
+mechanical,Fire Damper (FD),31.95,49.85,1592.71,6300,4500
+mechanical,Fire Damper (FD),35.79,35.79,1280.92,6300,4500
+mechanical,Fire Damper (FD),42.18,47.29,1994.69,6300,4500
+mechanical,Fire Damper (FD),20.45,47.29,967.08,6300,4500
+mechanical,Fire Damper (FD),31.95,47.29,1510.92,6300,4500
+mechanical,Fire Damper (FD),31.95,43.46,1388.55,6300,4500
+mechanical,Fire Damper (FD),35.79,43.46,1555.43,6300,4500
+mechanical,Fire Damper (FD),39.62,72.85,2886.32,6300,4500
+mechanical,Fire Damper (FD),33.23,48.57,1613.98,6300,4500
+mechanical,Fire Damper (FD),37.07,47.29,1753.04,6300,4500
+mechanical,Fire Damper (FD),31.95,53.68,1715.08,6300,4500
+mechanical,Fire Damper (FD),35.79,37.07,1326.74,6300,4500
+mechanical,Fire Damper (FD),34.51,39.62,1367.29,6300,4500
+mechanical,Fire Damper (FD),35.79,37.07,1326.74,6300,4500
+mechanical,Fire Damper (FD),37.07,47.29,1753.04,6300,4500
+mechanical,Fire Damper (FD),40.9,79.24,3240.92,6300,4500
+mechanical,Fire Damper (FD),44.73,76.69,3430.34,6300,4500
+mechanical,Fire Damper (FD),34.51,43.46,1499.8,6300,4500
+mechanical,Fire Damper (FD),35.79,38.34,1372.19,6300,4500
+mechanical,Fire Damper (FD),30.67,39.62,1215.15,6300,4500
+mechanical,Fire Damper (FD),37.07,46.01,1705.59,6300,4500
+mechanical,Fire Damper (FD),24.28,54.96,1334.43,6300,4500
+mechanical,Fire Damper (FD),37.07,44.73,1658.14,6300,4500
+mechanical,Fire Damper (FD),33.23,40.9,1359.11,6300,4500
+mechanical,Fire Damper (FD),31.95,51.12,1633.28,6300,4500
+mechanical,Fire Damper (FD),33.23,44.73,1486.38,6300,4500
+mechanical,Fire Damper (FD),42.18,29.4,1240.09,6300,4500
+mechanical,Fire Damper (FD),37.07,44.73,1658.14,6300,4500
+mechanical,Fire Damper (FD),31.95,40.9,1306.75,6300,4500
+mechanical,Fire Damper (FD),42.18,39.62,1671.17,6300,4500
+mechanical,Fire Damper (FD),38.34,40.9,1568.11,6300,4500
+mechanical,Fire Damper (FD),40.9,40.9,1672.81,6300,4500
+mechanical,Fire Damper (FD),44.73,39.62,1772.2,6300,4500
+mechanical,Square Return / Exhaust Register,43.46,44.73,1943.97,6300,4500
+mechanical,Square Return / Exhaust Register,43.46,42.18,1833.14,6300,4500
+mechanical,Square Return / Exhaust Register,30.67,35.79,1097.68,6300,4500
+mechanical,Square Return / Exhaust Register,30.67,42.18,1293.66,6300,4500
+mechanical,Square Return / Exhaust Register,38.34,42.18,1617.18,6300,4500
+mechanical,Square Return / Exhaust Register,56.24,53.68,3018.96,6300,4500
+mechanical,Square Return / Exhaust Register,51.12,42.18,2156.24,6300,4500
+mechanical,Square Return / Exhaust Register,44.73,47.29,2115.28,6300,4500
+mechanical,Square Return / Exhaust Register,37.07,31.95,1184.39,6300,4500
+mechanical,Square Return / Exhaust Register,40.9,43.46,1777.51,6300,4500
+mechanical,Square Return / Exhaust Register,39.62,43.46,1721.89,6300,4500
+mechanical,Square Return / Exhaust Register,42.18,40.9,1725.16,6300,4500
+mechanical,Square Return / Exhaust Register,38.34,40.9,1568.11,6300,4500
+mechanical,Square Return / Exhaust Register,39.62,42.18,1671.17,6300,4500
+mechanical,Square Return / Exhaust Register,33.23,40.9,1359.11,6300,4500
+mechanical,Square Return / Exhaust Register,46.01,49.85,2293.6,6300,4500
+mechanical,Square Return / Exhaust Register,43.46,44.73,1943.97,6300,4500
+mechanical,Square Return / Exhaust Register,35.79,43.46,1555.43,6300,4500
+mechanical,Square Return / Exhaust Register,47.29,40.9,1934.16,6300,4500
+mechanical,Square Return / Exhaust Register,38.38,38.38,1473.02,6300,4500
+mechanical,Square Return / Exhaust Register,40.2,40.2,1616.04,6300,4500
+mechanical,Square Return / Exhaust Register,45.69,49.34,2254.34,6300,4500
+mechanical,Square Return / Exhaust Register,38.38,40.2,1542.88,6300,4500
+mechanical,Square Return / Exhaust Register,42.03,43.86,1843.44,6300,4500
+mechanical,Square Return / Exhaust Register,43.86,43.86,1923.7,6300,4500
+mechanical,Square Return / Exhaust Register,34.72,38.38,1332.55,6300,4500
+mechanical,Square Return / Exhaust Register,36.55,42.03,1536.2,6300,4500
+mechanical,Square Return / Exhaust Register,51.17,47.51,2431.09,6300,4500
+mechanical,Square Return / Exhaust Register,34.72,32.89,1141.94,6300,4500
+mechanical,Square Return / Exhaust Register,31.07,40.2,1249.01,6300,4500
+mechanical,Square Return / Exhaust Register,40.2,51.17,2057.03,6300,4500
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),52.98,37.55,1989.4,5400,3600
+mechanical,Fire Damper (FD),52.68,37.25,1962.33,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),52.98,37.55,1989.4,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),32.05,45.2,1448.66,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),52.98,37.55,1989.4,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),63.98,63.98,4093.44,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),52.98,37.55,1989.4,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),52.98,37.55,1989.4,5400,3600
+mechanical,Fire Damper (FD),52.98,37.55,1989.4,5400,3600
+mechanical,Fire Damper (FD),52.68,37.25,1962.33,5400,3600
+mechanical,Fire Damper (FD),37.55,52.98,1989.4,5400,3600
+mechanical,Fire Damper (FD),52.98,37.55,1989.4,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),37.5,53.03,1988.62,5400,3600
+mechanical,Fire Damper (FD),53.03,37.5,1988.62,5400,3600
+mechanical,Fire Damper (FD),31.99,31.99,1023.36,5400,3600
+mechanical,Fire Damper (FD),55.32,62.38,3450.86,5400,3600
+mechanical,Flexible Duct (Flex Duct),161.04,115.03,18524.43,6300,4500
+mechanical,Flexible Duct (Flex Duct),81.8,100.97,8259.35,6300,4500
+mechanical,Flexible Duct (Flex Duct),161.04,86.91,13995.99,6300,4500
+mechanical,Flexible Duct (Flex Duct),46.01,63.91,2940.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),40.9,43.46,1777.51,6300,4500
+mechanical,Flexible Duct (Flex Duct),173.82,108.64,18883.8,6300,4500
+mechanical,Flexible Duct (Flex Duct),90.75,67.74,6147.4,6300,4500
+mechanical,Flexible Duct (Flex Duct),46.01,74.13,3410.72,6300,4500
+mechanical,Flexible Duct (Flex Duct),48.57,99.69,4841.94,6300,4500
+mechanical,Flexible Duct (Flex Duct),49.85,54.96,2739.76,6300,4500
+mechanical,Flexible Duct (Flex Duct),33.23,44.73,1486.38,6300,4500
+mechanical,Flexible Duct (Flex Duct),51.12,33.23,1698.72,6300,4500
+mechanical,Flexible Duct (Flex Duct),30.67,25.56,783.93,6300,4500
+mechanical,Flexible Duct (Flex Duct),34.51,21.73,749.9,6300,4500
+mechanical,Flexible Duct (Flex Duct),70.13,45.38,3182.5,6300,4500
+mechanical,Flexible Duct (Flex Duct),63.94,59.82,3824.89,6300,4500
+mechanical,Flexible Duct (Flex Duct),49.5,55.69,2756.65,6300,4500
+mechanical,Flexible Duct (Flex Duct),43.32,26.82,1161.84,6300,4500
+mechanical,Flexible Duct (Flex Duct),24.75,55.69,1378.33,6300,4500
+mechanical,Flexible Duct (Flex Duct),144.39,113.45,16381.05,6300,4500
+mechanical,Flexible Duct (Flex Duct),35.07,115.51,4050.94,6300,4500
+mechanical,Flexible Duct (Flex Duct),26.82,47.44,1272.34,6300,4500
+mechanical,Flexible Duct (Flex Duct),119.64,72.19,8636.81,6300,4500
+mechanical,Flexible Duct (Flex Duct),140.26,70.13,9836.43,6300,4500
+mechanical,Flexible Duct (Flex Duct),132.01,39.19,5173.47,6300,4500
+mechanical,Flexible Duct (Flex Duct),63.94,84.57,5407.41,6300,4500
+mechanical,Round Supply Diffuser,85.92,86.01,7389.98,6300,4500
+mechanical,Round Supply Diffuser,86.35,86.43,7463.23,6300,4500
+mechanical,Round Supply Diffuser,65.59,77.16,5060.92,6300,4500
+mechanical,Round Supply Diffuser,65.59,84.88,5567.28,6300,4500
+mechanical,Round Supply Diffuser,69.44,77.16,5357.99,6300,4500
+mechanical,Round Supply Diffuser,68.73,68.81,4729.31,6300,4500
+mechanical,Round Supply Diffuser,67.41,67.32,4538.04,6300,4500
+mechanical,Round Supply Diffuser,54.91,62.98,3458.23,6300,4500
+mechanical,Round Supply Diffuser,53.29,59.75,3184.08,6300,4500
+mechanical,Elevation Benchmark (Datum Target),27.25,26.99,735.48,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.75,27.0,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.0,26.75,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.74,26.99,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.04,26.79,724.4,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.25,26.99,735.48,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.25,26.99,735.48,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.25,26.99,735.48,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.0,26.75,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.0,26.75,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.29,27.04,737.92,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.75,27.0,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.74,26.99,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.25,26.99,735.48,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.0,26.75,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.0,26.75,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.75,27.0,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.74,26.99,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.29,27.04,737.92,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.0,26.75,722.25,7200,5400
+mechanical,Elevation Benchmark (Datum Target),26.99,26.74,721.71,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.25,26.99,735.48,7200,5400
+mechanical,Elevation Benchmark (Datum Target),27.25,26.99,735.48,7200,5400

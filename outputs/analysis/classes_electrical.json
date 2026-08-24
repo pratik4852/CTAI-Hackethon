@@ -1,0 +1,35 @@
+{
+  "num_classes": 14,
+  "names": [
+    "Auto Switch",
+    "Disconnect Switch",
+    "Double Duplex Receptacle",
+    "Duplex Receptacle",
+    "Electrical Wall Heater",
+    "Fan Connection",
+    "Fire Alarm",
+    "Floor Box",
+    "Junction Box",
+    "Manual Fire Alarm",
+    "Motor Connection",
+    "Panel Board",
+    "Single Receptacle",
+    "Surface Mounted A"
+  ],
+  "name_to_id": {
+    "Auto Switch": 0,
+    "Disconnect Switch": 1,
+    "Double Duplex Receptacle": 2,
+    "Duplex Receptacle": 3,
+    "Electrical Wall Heater": 4,
+    "Fan Connection": 5,
+    "Fire Alarm": 6,
+    "Floor Box": 7,
+    "Junction Box": 8,
+    "Manual Fire Alarm": 9,
+    "Motor Connection": 10,
+    "Panel Board": 11,
+    "Single Receptacle": 12,
+    "Surface Mounted A": 13
+  }
+}

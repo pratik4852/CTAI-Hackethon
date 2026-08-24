@@ -1,0 +1,27 @@
+path: E:/CTA Dataset/CTD Hackathon/data/yolo
+train: images/train
+val: images/val
+nc: 22
+names:
+  0: "Auto Switch"
+  1: "Disconnect Switch"
+  2: "Double Duplex Receptacle"
+  3: "Duplex Receptacle"
+  4: "Electrical Wall Heater"
+  5: "Elevation Benchmark (Datum Target)"
+  6: "Fan Connection"
+  7: "Fire Alarm"
+  8: "Fire Damper (FD)"
+  9: "Flexible Duct (Flex Duct)"
+  10: "Floor Box"
+  11: "Junction Box"
+  12: "Linear Bar Grille / Linear Slot Diffuser"
+  13: "Manual Fire Alarm"
+  14: "Motor Connection"
+  15: "Panel Board"
+  16: "Round Supply Diffuser"
+  17: "Single Receptacle"
+  18: "Square Return / Exhaust Register"
+  19: "Square Supply Diffuser (4-Way)"
+  20: "Surface Mounted A"
+  21: "Water Source Heat Pump (WSHP) / Vertical Heat Pump (VHP)"
