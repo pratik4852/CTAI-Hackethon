@@ -20,6 +20,7 @@ import {
   setSearchResult,
   setSelection,
   toggleLayer,
+  zoomTo,
 } from '../store/viewerSlice'
 import SheetCanvas from '../components/SheetCanvas'
 import { categoryColor, num, pct } from '../lib/format'
@@ -119,12 +120,25 @@ function ScalePanel({ sheet, projectId, documentId }) {
   )
 }
 
+//: A symbol needs to be at least this many screen pixels across before a mouse
+//: drag can realistically enclose it and nothing else.
+const MIN_SYMBOL_PX = 14
+const TYPICAL_SYMBOL_PT = 18
+const PT_TO_PX = 130 / 72
+
 function VisualSearchPanel({ sheet, documentId, projectId }) {
   const dispatch = useDispatch()
-  const { mode, selection, searchResult } = useSelector((s) => s.viewer)
+  const { mode, selection, searchResult, transform } = useSelector((s) => s.viewer)
   const [search, { isLoading }] = useVisualSearchMutation()
   const [learn] = useLearnGlyphMutation()
   const [label, setLabel] = useState('')
+
+  // At a fit-to-page view of a 1/32" sheet a 24" diffuser is about one screen
+  // pixel, so no drag can isolate it and every attempt trips the size guard
+  // with no explanation. Check the zoom up front and say so.
+  const symbolPx = TYPICAL_SYMBOL_PT * PT_TO_PX * (transform.scale || 0)
+  const zoomTooLow = symbolPx < MIN_SYMBOL_PX
+  const neededZoom = Math.ceil((MIN_SYMBOL_PX / (TYPICAL_SYMBOL_PT * PT_TO_PX)) * 100)
 
   useEffect(() => {
     const run = async () => {
@@ -137,14 +151,30 @@ function VisualSearchPanel({ sheet, documentId, projectId }) {
         }).unwrap()
         dispatch(setSearchResult(res))
         setLabel(res.known_label || '')
+        // Leave selection mode once a search resolves, otherwise the next drag
+        // draws another marquee instead of panning and the mode looks stuck.
+        dispatch(setMode('pan'))
       } catch (e) {
-        dispatch(toast({ kind: 'error', message: e?.data?.detail || 'Search failed' }))
+        const detail = e?.data?.detail || 'Search failed'
+        dispatch(toast({
+          kind: 'error',
+          message: /too large|too much geometry/.test(detail)
+            ? 'That box covered too much of the drawing. Zoom in further and drag a tight box around one symbol.'
+            : detail,
+          ms: 6000,
+        }))
       } finally {
         dispatch(setSelection(null))
       }
     }
     run()
   }, [selection, documentId, sheet.page_number, search, dispatch])
+
+  // Changing sheet should not leave the pointer armed for selection.
+  useEffect(() => {
+    dispatch(setMode('pan'))
+    dispatch(setSearchResult(null))
+  }, [sheet.page_number, documentId, dispatch])
 
   const saveLabel = async () => {
     if (!searchResult || !label.trim()) return
@@ -168,10 +198,25 @@ function VisualSearchPanel({ sheet, documentId, projectId }) {
       <button
         className={mode === 'select' ? 'primary sm' : 'sm'}
         style={{ width: '100%' }}
+        disabled={zoomTooLow}
         onClick={() => dispatch(setMode(mode === 'select' ? 'pan' : 'select'))}
       >
         {mode === 'select' ? 'Selecting — drag on the sheet' : 'Select a symbol to count'}
       </button>
+
+      {zoomTooLow && (
+        <div className="small" style={{ marginTop: 8, color: 'var(--warn)' }}>
+          Zoom in to about <strong>{neededZoom}%</strong> first — at this zoom a typical symbol is
+          only {symbolPx.toFixed(1)} px across, too small to box on its own.
+          <button
+            className="sm"
+            style={{ marginTop: 8, width: '100%' }}
+            onClick={() => dispatch(zoomTo(MIN_SYMBOL_PX / (TYPICAL_SYMBOL_PT * PT_TO_PX)))}
+          >
+            Zoom in for me
+          </button>
+        </div>
+      )}
 
       {isLoading && (
         <div className="row small muted" style={{ marginTop: 10 }}>
@@ -476,7 +521,7 @@ export default function Drawings() {
         )}
       </aside>
 
-      <div style={{ position: 'relative', minWidth: 0 }}>
+      <div className="canvas-column">
         {isFetching && !sheet ? (
           <div className="empty">
             <div className="spin" style={{ margin: '0 auto 10px' }} />

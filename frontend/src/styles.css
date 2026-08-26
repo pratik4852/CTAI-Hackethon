@@ -186,7 +186,7 @@ button.primary:hover { filter: brightness(1.08); }
 button.ghost { background: transparent; }
 button.danger { color: var(--danger); border-color: #3b1d28; }
 button.sm { padding: 5px 9px; font-size: 12px; }
-button.icon { padding: 7px; }
+button.icon { padding: 7px; min-width: 30px; justify-content: center; font-size: 14px; line-height: 1; }
 
 input, select, textarea {
   font: inherit; font-size: 13px;
@@ -264,14 +264,33 @@ table.data td.num, table.data th.num { text-align: right; font-variant-numeric: 
   letter-spacing: .06em; color: var(--text-3); font-weight: 700;
 }
 
+/* The middle column of the viewer. Made a flex column so the canvas below can
+   claim the full height of the grid row. */
+.canvas-column {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+}
+
 .canvas-wrap {
-  position: relative; overflow: hidden; min-height: 0;
+  position: relative; overflow: hidden;
+  /* Every child of this element is absolutely positioned, so without a
+     definite height it collapses to zero and `overflow: hidden` clips the whole
+     viewer — the drawing, the overlays and the zoom readout all disappear while
+     the side panels still show data. flex + height covers both a flex parent
+     and a plain block one. */
+  flex: 1 1 auto;
+  height: 100%;
+  min-height: 240px;
   background:
     linear-gradient(var(--bg-2) 1px, transparent 1px) 0 0 / 28px 28px,
     linear-gradient(90deg, var(--bg-2) 1px, transparent 1px) 0 0 / 28px 28px,
     var(--bg);
   cursor: grab;
 }
+.canvas-wrap.mode-pan { cursor: grab; }
 .canvas-wrap.mode-select { cursor: crosshair; }
 .canvas-wrap.mode-calibrate { cursor: cell; }
 .canvas-wrap.dragging { cursor: grabbing; }

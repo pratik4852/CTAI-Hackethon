@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import io
 import json
+import shutil
 import math
 import os
 import threading
@@ -331,6 +332,7 @@ def delete_document(did: str) -> Response:
         c.execute("DELETE FROM documents WHERE id=?", (did,))
     Path(d["stored_path"]).unlink(missing_ok=True)
     store.result_path(did).unlink(missing_ok=True)
+    shutil.rmtree(settings.data_dir / "renders" / did, ignore_errors=True)
     return Response(status_code=204)
 
 
@@ -464,8 +466,25 @@ def get_result_full(did: str) -> dict:
 
 @app.get("/api/documents/{did}/page/{page}/image")
 def page_image(did: str, page: int, dpi: int = Query(110, ge=40, le=300)) -> Response:
-    """Render one sheet. Cached aggressively — sheets do not change."""
+    """
+    Render one sheet, cached on disk.
+
+    A large sheet is a multi-megabyte render that takes a second or two, and
+    while an analysis job is running it competes for CPU with pure-Python
+    geometry work — so an uncached re-render on every pan or page switch is the
+    difference between the viewer feeling instant and appearing broken. Sheets
+    never change once uploaded, so the cache never needs invalidating.
+    """
     d = _document_or_404(did)
+    cache_dir = settings.data_dir / "renders" / did
+    cache_file = cache_dir / f"p{page}_{dpi}.png"
+
+    if cache_file.exists():
+        return FileResponse(
+            cache_file, media_type="image/png",
+            headers={"Cache-Control": "public, max-age=86400", "X-MEPIQ-Cache": "hit"},
+        )
+
     try:
         with DrawingDocument(d["stored_path"]) as doc:
             if page < 1 or page > doc.page_count:
@@ -473,10 +492,21 @@ def page_image(did: str, page: int, dpi: int = Query(110, ge=40, le=300)) -> Res
             png = doc.render_png(page - 1, dpi=dpi)
     except HTTPException:
         raise
+    except MemoryError:
+        raise HTTPException(507, "Not enough memory to render this sheet — try a lower dpi")
     except Exception as exc:
         raise HTTPException(500, f"Could not render page: {exc}")
+
+    try:
+        cache_dir.mkdir(parents=True, exist_ok=True)
+        tmp = cache_file.with_suffix(".tmp")
+        tmp.write_bytes(png)
+        os.replace(tmp, cache_file)
+    except Exception:
+        pass  # a cache miss is slow, not broken
+
     return Response(png, media_type="image/png",
-                    headers={"Cache-Control": "public, max-age=86400"})
+                    headers={"Cache-Control": "public, max-age=86400", "X-MEPIQ-Cache": "miss"})
 
 
 @app.get("/api/documents/{did}/page/{page}/crop")
@@ -564,9 +594,16 @@ def visual_search(body: VisualSearchRequest) -> dict:
     d = _document_or_404(body.document_id)
     x0, y0, x1, y1 = body.bbox_pt
     if x1 - x0 < 0.5 or y1 - y0 < 0.5:
-        raise HTTPException(400, "Selection is too small")
-    if (x1 - x0) > 200 or (y1 - y0) > 200:
-        raise HTTPException(400, "Selection is too large — select a single symbol")
+        raise HTTPException(400, "Selection is too small — drag a box around one symbol")
+    # The real cost control is the primitive count below; this bound only rules
+    # out a selection so large it cannot be one component. It is generous
+    # because a box drawn at a zoomed-out view covers a lot of drawing space.
+    if (x1 - x0) > 400 or (y1 - y0) > 400:
+        raise HTTPException(
+            400,
+            "Selection covers too much of the drawing — zoom in further and drag a tighter box "
+            "around a single symbol",
+        )
 
     from mepiq_core.matching import SheetGeometryIndex, build_template, find_instances
 
@@ -583,7 +620,11 @@ def visual_search(body: VisualSearchRequest) -> dict:
         if len(ids) < 2:
             raise HTTPException(400, "No drawing geometry inside that selection")
         if len(ids) > 400:
-            raise HTTPException(400, "That selection contains too much geometry — zoom in on one symbol")
+            raise HTTPException(
+                400,
+                f"That selection contains {len(ids)} pieces of geometry — too many for one symbol. "
+                "Zoom in further and drag a tighter box.",
+            )
 
         from mepiq_core.symbols import _canonical_signature
         glyph_id, _box = _canonical_signature(prims, ids)

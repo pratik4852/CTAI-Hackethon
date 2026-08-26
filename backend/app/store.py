@@ -169,12 +169,16 @@ def delete_project(pid: str) -> None:
         c.execute("DELETE FROM chats WHERE project_id=?", (pid,))
         c.execute("DELETE FROM jobs WHERE project_id=?", (pid,))
         c.execute("DELETE FROM projects WHERE id=?", (pid,))
+    import shutil
+
     for d in docs:
         for p in (Path(d["stored_path"]), result_path(d["id"])):
             try:
                 p.unlink(missing_ok=True)
             except Exception:
                 pass
+        # Cached page renders belong to the document; drop them with it.
+        shutil.rmtree(settings.data_dir / "renders" / d["id"], ignore_errors=True)
 
 
 def add_document(project_id: str, file_name: str, stored_path: Path, size_bytes: int, page_count: int = 0) -> dict:

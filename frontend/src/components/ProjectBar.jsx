@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { useLocation } from 'react-router-dom'
 import { useProjectQuery, useProjectsQuery } from '../store/api'
@@ -27,6 +27,17 @@ export default function ProjectBar() {
   const docs = project?.documents || []
   const activeDoc = documentId || docs.find((d) => d.has_result)?.id || docs[0]?.id || ''
 
+  // Selecting a project — or simply reloading the page — clears the chosen
+  // document. Without this the app would sit on an empty state with no visible
+  // way out, because the picker below only appears once a project holds more
+  // than one drawing set. Preferring an analysed document means the user lands
+  // on something worth looking at.
+  useEffect(() => {
+    if (projectId && !documentId && activeDoc) {
+      dispatch(setDocument(activeDoc))
+    }
+  }, [projectId, documentId, activeDoc, dispatch])
+
   return (
     <header className="topbar">
       <h1>{TITLES[pathname] || 'MEPIQ'}</h1>
@@ -51,16 +62,18 @@ export default function ProjectBar() {
         </select>
       )}
 
-      {docs.length > 1 && (
+      {docs.length > 0 && (
         <select
           value={activeDoc}
           onChange={(e) => dispatch(setDocument(e.target.value))}
-          style={{ width: 220 }}
+          style={{ width: 240 }}
           aria-label="Drawing set"
+          title="Drawing set"
         >
           {docs.map((d) => (
             <option key={d.id} value={d.id}>
-              {d.file_name} {d.has_result ? '' : '(not analysed)'}
+              {d.file_name}
+              {d.has_result ? '' : ' — not analysed'}
             </option>
           ))}
         </select>

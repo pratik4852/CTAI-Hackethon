@@ -6,8 +6,10 @@ import {
   selectDetection,
   selectRun,
   setCalibrationPoint,
+  setMode,
   setSelection,
   setTransform,
+  setViewportCentre,
 } from '../store/viewerSlice'
 import { categoryColor } from '../lib/format'
 
@@ -37,6 +39,8 @@ export default function SheetCanvas({ sheet, documentId, clashes = [] }) {
   const [drag, setDrag] = useState(null)
   const [marquee, setMarquee] = useState(null)
   const [imgLoaded, setImgLoaded] = useState(false)
+  const [imgError, setImgError] = useState(false)
+  const [spaceHeld, setSpaceHeld] = useState(false)
 
   const {
     layers, mode, transform, selectedDetection, selectedRun, focus,
@@ -60,17 +64,55 @@ export default function SheetCanvas({ sheet, documentId, clashes = [] }) {
   useEffect(() => {
     const el = wrapRef.current
     if (!el) return undefined
-    const ro = new ResizeObserver(() => {
+    const publish = () => {
       setSize({ w: el.clientWidth, h: el.clientHeight })
-    })
+      dispatch(setViewportCentre({ x: el.clientWidth / 2, y: el.clientHeight / 2 }))
+    }
+    const ro = new ResizeObserver(publish)
     ro.observe(el)
-    setSize({ w: el.clientWidth, h: el.clientHeight })
+    publish()
     return () => ro.disconnect()
-  }, [])
+  }, [dispatch])
 
+  // Fit as soon as the sheet's dimensions are known, rather than waiting for
+  // the rendered image. A big sheet can take seconds to render — and while a
+  // full analysis is running it competes for CPU — so gating the view on the
+  // image meant a slow or failed render left the stage at scale 1 pinned to the
+  // origin, showing nothing. The overlays are real geometry and can be read
+  // without the raster behind them.
   useEffect(() => {
-    if (imgLoaded) fit()
-  }, [imgLoaded, sheet?.page_number, fit])
+    if (pageW && pageH && size.w > 0) fit()
+  }, [pageW, pageH, size.w, size.h, fit])
+
+  // A fresh page needs a fresh load state, otherwise the previous sheet's
+  // "loaded" carries over and the spinner never appears.
+  useEffect(() => {
+    setImgLoaded(false)
+    setImgError(false)
+  }, [documentId, sheet?.page_number])
+
+  // Hold space to pan from any tool; typing in a panel input must not trigger it.
+  useEffect(() => {
+    const typing = (t) => t && /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName)
+    const down = (e) => {
+      if (e.code === 'Space' && !typing(e.target)) {
+        e.preventDefault()
+        setSpaceHeld(true)
+      }
+    }
+    const up = (e) => {
+      if (e.code === 'Space') setSpaceHeld(false)
+    }
+    const blur = () => setSpaceHeld(false)
+    window.addEventListener('keydown', down)
+    window.addEventListener('keyup', up)
+    window.addEventListener('blur', blur)
+    return () => {
+      window.removeEventListener('keydown', down)
+      window.removeEventListener('keyup', up)
+      window.removeEventListener('blur', blur)
+    }
+  }, [])
 
   // --- fly to a location -------------------------------------------------
   useEffect(() => {
@@ -118,17 +160,40 @@ export default function SheetCanvas({ sheet, documentId, clashes = [] }) {
   }
 
   const onPointerDown = (e) => {
-    if (e.button !== 0) return
+    // Middle-drag pans from any mode, and so does a left-drag while space is
+    // held — the convention every CAD and design tool shares. Without it a user
+    // who has armed the select tool has to go back to the panel just to scroll
+    // the sheet.
+    const wantsPan = e.button === 1 || spaceHeld || mode === 'pan'
+    if (e.button !== 0 && e.button !== 1) return
     e.currentTarget.setPointerCapture?.(e.pointerId)
+
+    if (wantsPan) {
+      setDrag({ x: e.clientX - transform.x, y: e.clientY - transform.y })
+      return
+    }
     if (mode === 'select') {
       const [x, y] = toPagePt(e.clientX, e.clientY)
       setMarquee({ x0: x, y0: y, x1: x, y1: y })
     } else if (mode === 'calibrate') {
       const [x, y] = toPagePt(e.clientX, e.clientY)
       dispatch(setCalibrationPoint([x, y]))
-    } else {
-      setDrag({ x: e.clientX - transform.x, y: e.clientY - transform.y })
     }
+  }
+
+  const zoomBy = (factor) => {
+    const el = wrapRef.current
+    if (!el) return
+    const mx = el.clientWidth / 2
+    const my = el.clientHeight / 2
+    const scale = Math.min(14, Math.max(0.05, transform.scale * factor))
+    dispatch(
+      setTransform({
+        scale,
+        x: mx - (mx - transform.x) * (scale / transform.scale),
+        y: my - (my - transform.y) * (scale / transform.scale),
+      })
+    )
   }
 
   const onPointerMove = (e) => {
@@ -184,7 +249,7 @@ export default function SheetCanvas({ sheet, documentId, clashes = [] }) {
   return (
     <div
       ref={wrapRef}
-      className={`canvas-wrap mode-${mode} ${drag ? 'dragging' : ''}`}
+      className={`canvas-wrap mode-${spaceHeld ? 'pan' : mode} ${drag ? 'dragging' : ''}`}
       onWheel={onWheel}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}
@@ -195,13 +260,25 @@ export default function SheetCanvas({ sheet, documentId, clashes = [] }) {
         className="canvas-stage"
         style={{ transform: `translate(${transform.x}px, ${transform.y}px) scale(${transform.scale})` }}
       >
+        {/* A white plate under the drawing so the sheet has substance while the
+            render is in flight, instead of the overlays floating on the dark
+            page background. */}
+        <div
+          style={{
+            width: pageW, height: pageH,
+            background: imgLoaded ? 'transparent' : '#ffffff',
+            position: 'absolute', inset: 0,
+          }}
+        />
         <img
           src={pageImageUrl(documentId, sheet.page_number, RENDER_DPI)}
           alt={`Sheet ${sheet.sheet_label}`}
           width={pageW}
           height={pageH}
-          onLoad={() => setImgLoaded(true)}
+          onLoad={() => { setImgLoaded(true); setImgError(false) }}
+          onError={() => setImgError(true)}
           draggable={false}
+          style={{ position: 'relative' }}
         />
 
         <svg width={pageW} height={pageH} viewBox={`0 0 ${pageW} ${pageH}`}>
@@ -352,6 +429,78 @@ export default function SheetCanvas({ sheet, documentId, clashes = [] }) {
           )}
         </svg>
       </div>
+
+      <div className="viewer-toolbar" onPointerDown={(e) => e.stopPropagation()}>
+        <button
+          className={`icon sm ${mode === 'pan' ? 'primary' : 'ghost'}`}
+          onClick={() => dispatch(setMode('pan'))}
+          title="Pan (or hold Space / middle-drag from any tool)"
+          aria-label="Pan tool"
+        >
+          ✋
+        </button>
+        <button
+          className={`icon sm ${mode === 'select' ? 'primary' : 'ghost'}`}
+          onClick={() => dispatch(setMode(mode === 'select' ? 'pan' : 'select'))}
+          title="Find similar symbols — drag a box around one symbol"
+          aria-label="Select tool"
+        >
+          ⬚
+        </button>
+        <button
+          className={`icon sm ${mode === 'calibrate' ? 'primary' : 'ghost'}`}
+          onClick={() => dispatch(setMode(mode === 'calibrate' ? 'pan' : 'calibrate'))}
+          title="Set the scale by clicking two points"
+          aria-label="Calibrate tool"
+        >
+          📏
+        </button>
+        <span style={{ width: 1, height: 20, background: 'var(--line)', margin: '0 2px' }} />
+        <button className="icon sm ghost" onClick={() => zoomBy(1 / 1.4)} title="Zoom out" aria-label="Zoom out">
+          −
+        </button>
+        <button className="icon sm ghost" onClick={() => zoomBy(1.4)} title="Zoom in" aria-label="Zoom in">
+          +
+        </button>
+        <button className="sm ghost" onClick={fit} title="Fit the sheet to the window">
+          Fit
+        </button>
+      </div>
+
+      {spaceHeld && (
+        <div className="viewer-status" style={{ left: 'auto', right: 12 }}>
+          ✋ Pan — release Space to return to the {mode} tool
+        </div>
+      )}
+
+      {!imgLoaded && !imgError && (
+        <div className="viewer-hint" style={{ borderColor: 'var(--line)' }}>
+          <div className="row">
+            <div className="spin" />
+            <strong>Rendering sheet…</strong>
+          </div>
+          <div style={{ marginTop: 4 }}>
+            Large sheets take a few seconds, and longer while an analysis is running.
+            The traced geometry below is already live.
+          </div>
+        </div>
+      )}
+      {imgError && (
+        <div className="viewer-hint" style={{ borderColor: 'var(--danger)' }}>
+          <strong>Could not render this sheet</strong>
+          <div style={{ marginTop: 4 }}>
+            The overlays are still accurate. If this persists the server may be low on memory —
+            try again once the analysis has finished.
+          </div>
+          <button
+            className="sm"
+            style={{ marginTop: 8 }}
+            onClick={() => { setImgError(false); setImgLoaded(false) }}
+          >
+            Retry
+          </button>
+        </div>
+      )}
 
       <div className="viewer-status">
         <span>{Math.round(transform.scale * 100)}%</span>

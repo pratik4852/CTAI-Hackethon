@@ -12,6 +12,8 @@ const initialState = {
   // Pointer mode: pan | select (marquee -> visual search) | calibrate
   mode: 'pan',
   transform: { scale: 1, x: 0, y: 0 },
+  // Centre of the canvas in screen px, so zoom actions keep it fixed.
+  viewportCentre: { x: 0, y: 0 },
   selection: null, // { x0, y0, x1, y1 } in PDF points
   calibration: { p1: null, p2: null },
   selectedDetection: null,
@@ -36,6 +38,27 @@ const viewerSlice = createSlice({
     },
     setTransform(state, { payload }) {
       state.transform = payload
+    },
+    /**
+     * Zoom to a given scale about the centre of the current view.
+     *
+     * Used to lift the user out of a fit-to-page view, where a symbol is barely
+     * a pixel wide and no drag can select one.
+     */
+    zoomTo(state, { payload }) {
+      const { scale: from, x, y } = state.transform
+      const to = payload
+      if (!from || !to) return
+      // Keep whatever is at the centre of the viewport at the centre.
+      const k = to / from
+      state.transform = {
+        scale: to,
+        x: x * k + (1 - k) * (state.viewportCentre?.x ?? 0),
+        y: y * k + (1 - k) * (state.viewportCentre?.y ?? 0),
+      }
+    },
+    setViewportCentre(state, { payload }) {
+      state.viewportCentre = payload
     },
     setSelection(state, { payload }) {
       state.selection = payload
@@ -84,6 +107,8 @@ export const {
   toggleLayer,
   setMode,
   setTransform,
+  zoomTo,
+  setViewportCentre,
   setSelection,
   setCalibrationPoint,
   resetCalibration,

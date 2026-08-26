@@ -1,4 +1,6 @@
-.PHONY: help install dev-api dev-web test build up down logs eval clean
+MEPIQ_API ?= http://127.0.0.1:8000
+
+.PHONY: help install dev-api dev-web test smoke build up down logs eval clean
 
 help:
 	@echo "MEPIQ"
@@ -6,6 +8,7 @@ help:
 	@echo "  make dev-api   run the API on :8000 with reload"
 	@echo "  make dev-web   run the web app on :5173"
 	@echo "  make test      backend test suite + frontend production build"
+	@echo "  make smoke     render every page against a running API and assert real data"
 	@echo "  make up        docker compose up --build"
 	@echo "  make down      docker compose down"
 	@echo "  make build     build the single-container image"
@@ -23,7 +26,20 @@ dev-web:
 
 test:
 	cd backend && pytest -q
+	cd frontend && node test/check-layout.mjs
 	cd frontend && npm run build
+
+# Renders every page in jsdom against a running API and asserts real data is
+# shown — including with no document selected, the state a page reload leaves.
+#   MEPIQ_PID=prj_xxx MEPIQ_DID=doc_yyy make smoke
+smoke:
+	cd frontend && npx esbuild test/smoke-entry.jsx --bundle --format=esm \
+	  --platform=browser --loader:.jsx=jsx --jsx=automatic \
+	  --define:import.meta.env.VITE_API_BASE='"$(MEPIQ_API)"' \
+	  --define:process.env.NODE_ENV='"development"' \
+	  --outfile=test/smoke-bundle.mjs --log-level=error
+	cd frontend && node test/check-layout.mjs
+	cd frontend && node test/run-smoke.mjs
 
 up:
 	docker compose up --build

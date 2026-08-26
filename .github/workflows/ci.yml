@@ -50,6 +50,10 @@ jobs:
         working-directory: frontend
         run: npm install --no-audit --no-fund
 
+      - name: Layout invariants
+        working-directory: frontend
+        run: node test/check-layout.mjs
+
       - name: Build
         working-directory: frontend
         run: npm run build
