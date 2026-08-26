@@ -1,0 +1,35 @@
+# Render blueprint — one service, one URL.
+#
+#   1. Push this repository to GitHub.
+#   2. Render dashboard -> New -> Blueprint -> pick the repo.
+#   3. Set OPENAI_API_KEY if you want the LLM copilot (optional).
+#
+# The root Dockerfile bundles the React app into the API image, so there is no
+# second service, no CORS setup and no separate frontend URL to keep in sync.
+
+services:
+  - type: web
+    name: mepiq
+    runtime: docker
+    plan: starter          # 512 MB is enough for typical sheets; use standard for large bid sets
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    autoDeploy: true
+    disk:
+      name: mepiq-data
+      mountPath: /data
+      sizeGB: 5
+    envVars:
+      - key: MEPIQ_DATA_DIR
+        value: /data
+      - key: MEPIQ_STATIC_DIR
+        value: /app/static
+      - key: MEPIQ_MAX_UPLOAD_MB
+        value: "200"
+      - key: MEPIQ_WORKERS
+        value: "2"
+      - key: OPENAI_API_KEY
+        sync: false        # set this in the Render dashboard
+      - key: OPENAI_MODEL
+        value: gpt-4o-mini

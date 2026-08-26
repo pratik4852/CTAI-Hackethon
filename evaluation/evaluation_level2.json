@@ -1,0 +1,221 @@
+{
+  "generated": "2026-08-24T19:17:46",
+  "level1": {
+    "sheets": [],
+    "overall_detection": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "overall_localisation": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "overall_counts": {
+      "per_class": [],
+      "total_predicted": 0,
+      "total_ground_truth": 0,
+      "count_accuracy": 1.0
+    },
+    "mean_seconds_per_sheet": 0.0
+  },
+  "level2": {
+    "sheets": [
+      {
+        "sheet": "20260806_105454_Architecture and Mechanical_IFC Set_Avexis_page_21",
+        "discipline": "mechanical",
+        "gt_segments": 4457,
+        "selected_segments": 5839,
+        "recovered": 4457,
+        "recall": 1.0,
+        "precision": 0.7633,
+        "layer": {
+          "weights": [
+            1.32
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.146,
+          "evidence": "7,966 full-intensity strokes at dominant pen weight 1.32 pt \u2014 15% of foreground ink"
+        }
+      },
+      {
+        "sheet": "20260806_105454_Architecture and Mechanical_IFC Set_Avexis_page_22",
+        "discipline": "mechanical",
+        "gt_segments": 4102,
+        "selected_segments": 4549,
+        "recovered": 4102,
+        "recall": 1.0,
+        "precision": 0.9017,
+        "layer": {
+          "weights": [
+            1.32
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.151,
+          "evidence": "6,230 full-intensity strokes at dominant pen weight 1.32 pt \u2014 15% of foreground ink"
+        }
+      },
+      {
+        "sheet": "20260806_105454_Architecture and Mechanical_IFC Set_Avexis_page_23",
+        "discipline": "mechanical",
+        "gt_segments": 5571,
+        "selected_segments": 5977,
+        "recovered": 5571,
+        "recall": 1.0,
+        "precision": 0.9321,
+        "layer": {
+          "weights": [
+            1.32
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.228,
+          "evidence": "8,117 full-intensity strokes at dominant pen weight 1.32 pt \u2014 23% of foreground ink"
+        }
+      },
+      {
+        "sheet": "20260806_105454_Architecture and Mechanical_IFC Set_Avexis_page_24",
+        "discipline": "mechanical",
+        "gt_segments": 4577,
+        "selected_segments": 5034,
+        "recovered": 4577,
+        "recall": 1.0,
+        "precision": 0.9092,
+        "layer": {
+          "weights": [
+            1.32
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.183,
+          "evidence": "6,788 full-intensity strokes at dominant pen weight 1.32 pt \u2014 18% of foreground ink"
+        }
+      },
+      {
+        "sheet": "FP105_FIRE PROTECTION PLAN LEVEL 5",
+        "discipline": "plumbing",
+        "gt_segments": 5470,
+        "selected_segments": 6221,
+        "recovered": 5470,
+        "recall": 1.0,
+        "precision": 0.8793,
+        "layer": {
+          "weights": [
+            0.24
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.875,
+          "evidence": "7,384 full-intensity strokes at dominant pen weight 0.24 pt \u2014 87% of foreground ink"
+        }
+      },
+      {
+        "sheet": "FP106_FIRE PROTECTION PLAN LEVEL 6",
+        "discipline": "plumbing",
+        "gt_segments": 5442,
+        "selected_segments": 5997,
+        "recovered": 5442,
+        "recall": 1.0,
+        "precision": 0.9075,
+        "layer": {
+          "weights": [
+            0.24
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.911,
+          "evidence": "7,033 full-intensity strokes at dominant pen weight 0.24 pt \u2014 91% of foreground ink"
+        }
+      },
+      {
+        "sheet": "P104.1_PLUMBING PLAN LEVEL 4 - AREA 1",
+        "discipline": "plumbing",
+        "gt_segments": 1819,
+        "selected_segments": 1512,
+        "recovered": 1,
+        "recall": 0.0005,
+        "precision": 0.0007,
+        "layer": {
+          "weights": [
+            0.24
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.532,
+          "evidence": "1,610 full-intensity strokes at dominant pen weight 0.24 pt \u2014 53% of foreground ink"
+        }
+      },
+      {
+        "sheet": "P104.2_PLUMBING PLAN LEVEL 4 - AREA 2",
+        "discipline": "plumbing",
+        "gt_segments": 161,
+        "selected_segments": 1703,
+        "recovered": 161,
+        "recall": 1.0,
+        "precision": 0.0945,
+        "layer": {
+          "weights": [
+            0.24
+          ],
+          "colors": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "coverage": 0.725,
+          "evidence": "1,950 full-intensity strokes at dominant pen weight 0.24 pt \u2014 72% of foreground ink"
+        }
+      }
+    ],
+    "overall_recall": 0.9425,
+    "overall_precision": 0.8086,
+    "mechanical_recall": 1.0,
+    "plumbing_recall": 0.859
+  }
+}

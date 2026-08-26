@@ -1,0 +1,13 @@
+**/node_modules
+**/dist
+**/__pycache__
+**/*.pyc
+**/.venv
+**/data
+**/.pytest_cache
+frontend/test/smoke-bundle.mjs
+CTD Dataset
+evaluation
+.git
+.github
+*.log

@@ -1,0 +1,48 @@
+# Fly.io — single machine, persistent volume for uploads and results.
+#
+#   fly launch --no-deploy --copy-config --config deploy/fly.toml
+#   fly volumes create mepiq_data --size 5
+#   fly secrets set OPENAI_API_KEY=sk-...      # optional
+#   fly deploy
+
+app = "mepiq"
+primary_region = "iad"
+
+[build]
+  dockerfile = "../Dockerfile"
+
+[env]
+  MEPIQ_DATA_DIR = "/data"
+  MEPIQ_STATIC_DIR = "/app/static"
+  MEPIQ_WORKERS = "2"
+  MEPIQ_MAX_UPLOAD_MB = "200"
+  PORT = "8000"
+
+[[mounts]]
+  source = "mepiq_data"
+  destination = "/data"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  # Analysis runs in-process, so keep at least one machine warm: a cold start
+  # in the middle of an upload is a poor first impression.
+  auto_stop_machines = "suspend"
+  auto_start_machines = true
+  min_machines_running = 1
+
+  [http_service.concurrency]
+    type = "requests"
+    soft_limit = 12
+    hard_limit = 25
+
+[[http_service.checks]]
+  interval = "30s"
+  timeout = "5s"
+  grace_period = "30s"
+  method = "GET"
+  path = "/api/health"
+
+[[vm]]
+  size = "shared-cpu-2x"
+  memory = "2gb"

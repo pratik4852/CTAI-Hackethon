@@ -1,0 +1,43 @@
+name: mepiq
+
+services:
+  api:
+    build:
+      context: ./backend
+    environment:
+      MEPIQ_DATA_DIR: /data
+      MEPIQ_MAX_UPLOAD_MB: ${MEPIQ_MAX_UPLOAD_MB:-200}
+      MEPIQ_MAX_SHEETS: ${MEPIQ_MAX_SHEETS:-40}
+      MEPIQ_WORKERS: ${MEPIQ_WORKERS:-2}
+      MEPIQ_CORS_ORIGINS: ${MEPIQ_CORS_ORIGINS:-*}
+      # Optional — the copilot works without it, using the deterministic engine.
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+    volumes:
+      - mepiq-data:/data
+    ports:
+      # The browser never talks to this port — nginx reaches the API over the
+      # internal network. It is published only so /docs is reachable for
+      # debugging, and it defaults to the same bind address as the web tier.
+      - "${MEPIQ_BIND:-0.0.0.0}:${MEPIQ_API_PORT:-8000}:8000"
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./frontend
+      args:
+        # Same-origin: nginx proxies /api through to the api service. Because
+        # the bundle uses relative URLs, whatever host a visitor types — a LAN
+        # IP, a hostname, localhost — is the host its API calls go to. Nothing
+        # to rebuild when the address changes.
+        VITE_API_BASE: ""
+    depends_on:
+      - api
+    ports:
+      # 0.0.0.0 makes this reachable from other machines on the network.
+      # Set MEPIQ_BIND=127.0.0.1 in .env to keep it to this machine only.
+      - "${MEPIQ_BIND:-0.0.0.0}:${MEPIQ_WEB_PORT:-8080}:80"
+    restart: unless-stopped
+
+volumes:
+  mepiq-data:

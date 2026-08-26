@@ -1,0 +1,14 @@
+# Applies to `context: ./backend` — the repository-root .dockerignore does not.
+__pycache__
+**/__pycache__
+*.py[cod]
+.venv
+venv
+.pytest_cache
+data
+*.db
+*.db-wal
+*.db-shm
+*.log
+Dockerfile
+.dockerignore

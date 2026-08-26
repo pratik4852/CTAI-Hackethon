@@ -1,0 +1,13 @@
+# Docker only reads the .dockerignore at the build context root, so the one in
+# the repository root does not apply to `context: ./frontend`.
+#
+# node_modules must be excluded or the Windows/macOS-native esbuild and rollup
+# binaries get copied into the Linux image and `npm run build` fails with
+# "You installed esbuild for another platform".
+node_modules
+dist
+test/smoke-bundle.mjs
+.vite
+*.log
+Dockerfile
+.dockerignore
